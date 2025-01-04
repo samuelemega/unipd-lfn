@@ -1,3 +1,8 @@
 .DS_Store
 
 __pycache__/
+
+environments.yml
+
+src/files/dump.bz2
+src/files/dump-index.txt
