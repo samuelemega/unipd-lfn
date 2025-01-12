@@ -1,5 +1,3 @@
-import pickle
-
 import igraph as ig
 
 if __name__ == "__main__":
@@ -8,15 +6,18 @@ if __name__ == "__main__":
     com=ig.Graph.community_multilevel(ug)
     nNodes=ug.vcount()
     subcoms=com.subgraphs()
-    i=0
-    for sub in subcoms:
-      with open("src\\files\\subgraph"+repr(i)+".pkl", "wb") as file:
-        sRatio=sub.vcount/nNodes
-        print("intra-cluster distance:", repr(sub.average_path_length(directed=False)))
-        pickle.dump(sub,file)
-      i+=1
-    with open("src\\files\\modularity.txt","w") as f:
+    with open("src\\files\\res.txt", "w") as f:
+      i=0
+      d=0
+      for sub in subcoms:
+        sNodes=sub.vcount()
+        sRatio=sNodes/nNodes*100
+        print("dimension of cluster",repr(i),":", repr(sRatio),file=f)
+        d+=sub.average_path_length(directed=False)
+        i+=1
+      print("avg intra-cluster distance:", repr(d/i),file=f)
+    with open("src\\files\\res.txt","w") as f:
       print("louvain modularity score:",repr(com.modularity),file=f)
-    ig.plot(ug,"prova.pdf")
+    #ig.plot(ug,"prova.pdf")
     
       
