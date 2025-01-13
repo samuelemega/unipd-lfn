@@ -17,11 +17,20 @@ def match_wikilinks(value):
   return wikilink_regex.findall(value)
 
 """
+  expand_body
+"""
+def expand_body(body):
+  return body
+
+"""
   Parser
 """
 class Parser:
   def __init__(self):
     self.idx = {}
+    """
+      expand_body
+    """
     self.reset()
 
   def reset(self):
