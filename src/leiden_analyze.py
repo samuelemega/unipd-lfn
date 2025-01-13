@@ -1,3 +1,7 @@
+"""
+  Author: Samuele Mega
+"""
+
 import pickle
 import json
 import igraph as ig

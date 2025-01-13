@@ -1,4 +1,8 @@
 """
+  Author: Samuele Mega
+"""
+
+"""
   freq
 """
 def freq(lst):

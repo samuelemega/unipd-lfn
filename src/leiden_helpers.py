@@ -1,3 +1,7 @@
+"""
+  Author: Samuele Mega
+"""
+
 from helpers import weighted_soergel, fr_sort_categories, pr_sort_vertices, community_categories
 
 """

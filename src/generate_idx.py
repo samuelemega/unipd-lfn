@@ -1,3 +1,7 @@
+"""
+  Author: Samuele Mega
+"""
+
 import pickle
 import requests
 from multiprocessing import Pool, Process, cpu_count

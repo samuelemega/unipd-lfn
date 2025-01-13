@@ -1,3 +1,7 @@
+"""
+  Author: Samuele Mega
+"""
+
 import html
 from multiprocessing import Pool, Process, cpu_count
 import time

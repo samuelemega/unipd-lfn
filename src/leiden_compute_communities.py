@@ -1,3 +1,7 @@
+"""
+  Author: Samuele Mega
+"""
+
 import leidenalg as la
 
 """
