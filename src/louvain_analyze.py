@@ -1,5 +1,5 @@
 """
-  Author: Federico Cognoletto
+  Author: Federico Cognolatto
 """
 
 import igraph as ig
