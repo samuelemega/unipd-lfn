@@ -4,10 +4,11 @@
 
 import pickle
 import igraph as ig
+import os
 
 if __name__ == "__main__":
 
-  with open("files/nodes.pkl", "br") as file:
+  with open(os.path.open("files", "nodes.pkl"), "br") as file:
     nodes = pickle.load(file)
 
   # Computing the labels of the vertices and edges

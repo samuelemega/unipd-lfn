@@ -6,6 +6,7 @@ import pickle
 import igraph as ig
 import numpy as np
 from collections import Counter
+import os
 
 def random_walk_centrality(subgraph, num_walks=1000, walk_length=50):
   """
@@ -43,7 +44,7 @@ if __name__ == "__main__":
   print("Subgraphs loaded.")
 
   # Compute random walk centrality for each subgraph
-  with open("src\\files\\subgraph_centrality.txt", "w", encoding="utf-8") as txt_file:
+  with open(os.path.join("files", "subgraph_centrality.txt"), "w", encoding="utf-8") as txt_file:
     for idx, subgraph in enumerate(subgraphs):
       try:
         central_node, centrality_score = random_walk_centrality(subgraph)
@@ -54,4 +55,3 @@ if __name__ == "__main__":
 
       except Exception as e:
         print(f"Error computing centrality for subgraph {idx}: {e}")
-

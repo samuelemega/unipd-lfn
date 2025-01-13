@@ -8,6 +8,7 @@ import time
 import re
 import pickle
 import numpy as np
+import os
 
 RESOLVE_MAX_DEPTH = 20
 ARTICLE_NAMESPACE = "0"
@@ -109,7 +110,7 @@ if __name__ == "__main__":
 
   cpu_count = cpu_count()
 
-  with open("files/idx.pkl", "rb") as file:
+  with open(os.path.join("files", "idx.pkl"), "rb") as file:
     idx = pickle.load(file)
 
   articles = {
@@ -140,11 +141,11 @@ if __name__ == "__main__":
     } for k, v in articles.items()
   }
 
-  with open("files/nodes.pkl", "wb") as file:
+  with open(os.path.join("files", "nodes.pkl"), "wb") as file:
     pickle.dump(nodes, file)
 
-  with open("files/missed_articles.pkl", "wb") as file:
+  with open(os.path.join("files", "missed_articles.pkl"), "wb") as file:
     pickle.dump(missed_articles, file)
 
-  with open("files/missed_categories.pkl", "wb") as file:
+  with open(os.path.join("files", "missed_categories.pkl"), "wb") as file:
     pickle.dump(missed_categories, file)

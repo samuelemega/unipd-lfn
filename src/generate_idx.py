@@ -8,6 +8,7 @@ from multiprocessing import Pool, Process, cpu_count
 import bz2
 import re
 import numpy as np
+import os
 
 TIMESTAMP = "2024-12-31T23:59:59Z"
 
@@ -106,7 +107,7 @@ def task(offsets):
   parser = Parser()
   print("Task")
 
-  with open("files/dump.bz2", "br") as xml_file:
+  with open(os.path.join("files", "dump.bz2"), "br") as xml_file:
     for offset in offsets:
       parser.parse_offset(xml_file, offset)
 
@@ -116,7 +117,7 @@ def task(offsets):
   main
 """
 if __name__ == "__main__":
-  with open("files/toc.pkl", "br") as file:
+  with open(os.path.join("files", "toc.pkl"), "br") as file:
     toc = pickle.load(file)
 
   cpu_count = cpu_count()
@@ -132,5 +133,5 @@ if __name__ == "__main__":
   for result in results:
     idx = idx | result
 
-  with open("files/idx.pkl", "wb") as file:
+  with open(os.path.join("files", "idx.pkl"), "wb") as file:
     pickle.dump(idx, file)
