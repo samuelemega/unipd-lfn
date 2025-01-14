@@ -1,0 +1,1218 @@
+{
+  "info": {
+    "vertices_count": 2970096,
+    "edges_count": 54599176,
+    "algotithm_duration": 1557.6792740821838
+  },
+  "communities_statistics": {
+    "mean_modularity": 0.15594800257267774,
+    "mean_soergel": 0.9981941451321401,
+    "count": 58725,
+    "mean": 50.57634738186462,
+    "median": 1.0,
+    "iqr": 0.0,
+    "giant_component": 2539032
+  },
+  "communities": [
+    {
+      "count": 2539032,
+      "dimension": 85.487,
+      "categories": [
+        "Film drammatici",
+        "Cortometraggi drammatici",
+        "Film commedia",
+        "Cortometraggi commedia",
+        "Formule molecolari",
+        "Attori televisivi statunitensi",
+        "Redirect da mantenere orfani",
+        "Cortometraggi muti statunitensi",
+        "Santi per nome",
+        "Calciatori inglesi"
+      ],
+      "page_rank_centers": [
+        "Stati Uniti d'America",
+        "Italia",
+        "Lingua inglese",
+        "Francia",
+        "Germania",
+        "Roma",
+        "Centrocampista",
+        "Regno Unito",
+        "Europa",
+        "Seconda guerra mondiale"
+      ],
+      "random_walk_center": [
+        "Stati Uniti d'America",
+        "Italia",
+        "Francia",
+        "Germania",
+        "Lingua inglese",
+        "Roma",
+        "XX secolo",
+        "Europa",
+        "XIX secolo",
+        "Regno Unito"
+      ]
+    },
+    {
+      "count": 73762,
+      "dimension": 2.483,
+      "categories": [
+        "Taxa classificati da Linneo",
+        "Asteroideae",
+        "Miomorfi",
+        "Microchirotteri",
+        "Fauna africana",
+        "Salticidae",
+        "Fauna asiatica",
+        "Linyphiidae",
+        "Fauna sudamericana",
+        "Taxa classificati da Eugène Simon"
+      ],
+      "page_rank_centers": [
+        "Eukaryota",
+        "Animalia",
+        "Specie",
+        "Tassonomia",
+        "Famiglia (tassonomia)",
+        "Classificazione scientifica",
+        "Genere (tassonomia)",
+        "Sistematica",
+        "Plantae",
+        "Chordata"
+      ],
+      "random_walk_center": [
+        "Tassonomia",
+        "Animalia",
+        "Eukaryota",
+        "Specie",
+        "Classificazione scientifica",
+        "Sistematica",
+        "Nomenclatura binomiale",
+        "Famiglia (tassonomia)",
+        "Filogenesi",
+        "Vertebra"
+      ]
+    },
+    {
+      "count": 65891,
+      "dimension": 2.218,
+      "categories": [
+        "Asteroidi della fascia principale interna",
+        "Asteroidi della fascia principale centrale",
+        "Asteroidi della fascia principale esterna",
+        "Corpi celesti scoperti nel 2000",
+        "Corpi celesti scoperti nel 1999",
+        "Corpi celesti scoperti nel 1998",
+        "Corpi celesti scoperti nel 1997",
+        "Corpi celesti scoperti nel 2001",
+        "Liste di asteroidi",
+        "Corpi celesti scoperti nel 1981"
+      ],
+      "page_rank_centers": [
+        "Orbita",
+        "Unità astronomica",
+        "Giorno",
+        "Asteroide",
+        "Semiasse maggiore",
+        "Eccentricità orbitale",
+        "Eclittica",
+        "Fascia principale",
+        "Anno giuliano",
+        "Giorno giuliano"
+      ],
+      "random_walk_center": [
+        "Orbita",
+        "Unità astronomica",
+        "Giorno",
+        "Semiasse maggiore",
+        "Asteroide",
+        "Eccentricità orbitale",
+        "Eclittica",
+        "Fascia principale",
+        "Anno giuliano",
+        "Giorno giuliano"
+      ]
+    },
+    {
+      "count": 50718,
+      "dimension": 1.708,
+      "categories": [
+        "ATP Tour 1998",
+        "ATP Tour 2000",
+        "ATP Tour 1997",
+        "ATP Tour 1999",
+        "ATP Tour 1996",
+        "ATP Tour 2008",
+        "ATP Tour 1994",
+        "ATP Tour 1993",
+        "ATP Tour 1992",
+        "ATP Tour 1995"
+      ],
+      "page_rank_centers": [
+        "Tennis",
+        "Grande Slam (tennis)",
+        "ATP Challenger Tour",
+        "Open di Francia",
+        "Australian Open",
+        "US Open (tennis)",
+        "Torneo di Wimbledon",
+        "Association of Tennis Professionals",
+        "Båstad",
+        "Båstad (comune)"
+      ],
+      "random_walk_center": [
+        "Båstad",
+        "Båstad (comune)",
+        "Tennis",
+        "Grande Slam (tennis)",
+        "Open di Francia",
+        "US Open (tennis)",
+        "Australian Open",
+        "Torneo di Wimbledon",
+        "Martina Navrátilová",
+        "Association of Tennis Professionals"
+      ]
+    },
+    {
+      "count": 39419,
+      "dimension": 1.327,
+      "categories": [
+        "Comuni del Passo di Calais",
+        "Comuni dell'Aisne",
+        "Comuni della Somme",
+        "Comuni della Senna Marittima",
+        "Comuni della Mosella",
+        "Comuni dell'Oise",
+        "Comuni della Marna",
+        "Comuni dell'Eure",
+        "Comuni del Doubs",
+        "Comuni dell'Alta Garonna"
+      ],
+      "page_rank_centers": [
+        "Comuni della Francia",
+        "Nuova Aquitania",
+        "Grande Est",
+        "Alvernia-Rodano-Alpi",
+        "Occitania (regione francese)",
+        "Alta Francia",
+        "Normandia",
+        "Borgogna-Franca Contea",
+        "Charente Marittima",
+        "Somme (dipartimento)"
+      ],
+      "random_walk_center": [
+        "Comuni della Francia",
+        "Nuova Aquitania",
+        "Occitania (regione francese)",
+        "Alvernia-Rodano-Alpi",
+        "Grande Est",
+        "Normandia",
+        "Dordogna",
+        "Alta Francia",
+        "Charente Marittima",
+        "Alta Garonna"
+      ]
+    },
+    {
+      "count": 20824,
+      "dimension": 0.701,
+      "categories": [
+        "Cestisti della Nazionale italiana",
+        "Cestisti jugoslavi",
+        "Cestisti serbo-montenegrini",
+        "Cestisti figli d'arte",
+        "Stagioni del campionato greco di pallacanestro",
+        "Pallacanestro nel 2014",
+        "Pallacanestro nel 2013",
+        "Pallacanestro nel 2012",
+        "Pallacanestro nel 2018",
+        "Pallacanestro nel 2016"
+      ],
+      "page_rank_centers": [
+        "Centro (pallacanestro)",
+        "Playmaker",
+        "Ala grande",
+        "Ala piccola",
+        "Tiro (pallacanestro)",
+        "FIBA Europe",
+        "Campionati europei maschili di pallacanestro",
+        "Tiro libero",
+        "Serie A (pallacanestro maschile)",
+        "Federazione Italiana Pallacanestro"
+      ],
+      "random_walk_center": [
+        "Playmaker",
+        "Centro (pallacanestro)",
+        "Ala grande",
+        "Ala piccola",
+        "Tiro (pallacanestro)",
+        "FIBA Europe",
+        "Tiro libero",
+        "Campionati europei maschili di pallacanestro",
+        "Serie A (pallacanestro maschile)",
+        "Ligue Nationale de Basket-ball"
+      ]
+    },
+    {
+      "count": 13267,
+      "dimension": 0.447,
+      "categories": [
+        "Pallavolo nel 2013",
+        "Pallavolo nel 2014",
+        "Pallavolo nel 2022",
+        "Pallavolo nel 2017",
+        "Pallavolo nel 2012",
+        "Pallavolo nel 2016",
+        "Pallavolo nel 2021",
+        "Pallavolo nel 2015",
+        "Pallavolo nel 2018",
+        "Pallavolo nel 2011"
+      ],
+      "page_rank_centers": [
+        "Fédération Internationale de Volleyball",
+        "Most Valuable Player",
+        "Libero (pallavolo)",
+        "Centrale (pallavolo)",
+        "Federazione Italiana Pallavolo",
+        "Confédération Européenne de Volleyball",
+        "Schiacciatore-laterale",
+        "Palleggiatore",
+        "Generazione di fenomeni",
+        "Schiacciatore-opposto"
+      ],
+      "random_walk_center": [
+        "Fédération Internationale de Volleyball",
+        "Most Valuable Player",
+        "Confédération Européenne de Volleyball",
+        "Federazione Italiana Pallavolo",
+        "Libero (pallavolo)",
+        "Centrale (pallavolo)",
+        "Carolina (Porto Rico)",
+        "Nazionale maschile di pallavolo dell'Italia",
+        "Schiacciatore-laterale",
+        "Generazione di fenomeni"
+      ]
+    },
+    {
+      "count": 12168,
+      "dimension": 0.41,
+      "categories": [
+        "Sportivi afroamericani",
+        "Pro Football Hall of Fame",
+        "Casi di doping nel football americano",
+        "Stagioni NFL",
+        "Stagioni dei Green Bay Packers",
+        "Squadre di college football",
+        "Draft NFL",
+        "Stagioni dei Washington Commanders",
+        "Stagioni dei San Francisco 49ers",
+        "Stagioni dei Cleveland Browns"
+      ],
+      "page_rank_centers": [
+        "National Football League",
+        "Quarterback",
+        "Rookie",
+        "Freshman",
+        "Sophomore",
+        "Touchdown",
+        "Running back",
+        "Super Bowl",
+        "Kicker (football americano)",
+        "Pro Football Hall of Fame"
+      ],
+      "random_walk_center": [
+        "Rookie",
+        "Sophomore",
+        "Freshman",
+        "Quarterback",
+        "National Football League",
+        "Touchdown",
+        "Running back",
+        "Kicker (football americano)",
+        "Pro Football Hall of Fame",
+        "End zone"
+      ]
+    },
+    {
+      "count": 10806,
+      "dimension": 0.364,
+      "categories": [
+        "Città della Repubblica Ceca",
+        "Comuni del distretto di Brno-venkov",
+        "Comuni del distretto di Třebíč",
+        "Comuni del distretto di Žďár nad Sázavou",
+        "Comuni del distretto di Znojmo",
+        "Comuni mercato della Repubblica Ceca",
+        "Comuni del distretto di Pelhřimov",
+        "Comuni del distretto di Jihlava",
+        "Comuni del distretto di Havlíčkův Brod",
+        "Comuni del distretto di Mladá Boleslav"
+      ],
+      "page_rank_centers": [
+        "Comuni della Repubblica Ceca",
+        "Boemia Centrale",
+        "Regioni della Repubblica Ceca",
+        "Regione di Vysočina",
+        "Moravia Meridionale",
+        "Boemia Meridionale",
+        "Regione di Plzeň",
+        "Regione di Pardubice",
+        "Regione di Olomouc",
+        "Regione di Ústí nad Labem"
+      ],
+      "random_walk_center": [
+        "Comuni della Repubblica Ceca",
+        "Boemia Centrale",
+        "Regioni della Repubblica Ceca",
+        "Regione di Vysočina",
+        "Moravia Meridionale",
+        "Regione di Pardubice",
+        "Distretto di Benešov",
+        "Comuni mercato della Repubblica Ceca",
+        "Regione di Plzeň",
+        "Boemia Meridionale"
+      ]
+    },
+    {
+      "count": 10051,
+      "dimension": 0.338,
+      "categories": [
+        "Sportivi afroamericani",
+        "Membri del Naismith Memorial Basketball Hall of Fame",
+        "Cestisti figli d'arte",
+        "Vincitori di medaglia d'oro olimpica per gli Stati Uniti d'America",
+        "NBA All-Star Game",
+        "Playoff NBA",
+        "Stagioni NBA",
+        "Draft NBA",
+        "Stagioni CBA",
+        "Campionato di pallacanestro NCAA Division I"
+      ],
+      "page_rank_centers": [
+        "NBA",
+        "Continental Basketball Association",
+        "NBA G League",
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "Golden State Warriors",
+        "Philadelphia 76ers",
+        "Sacramento Kings",
+        "New York Knicks",
+        "Chicago Bulls"
+      ],
+      "random_walk_center": [
+        "NBA",
+        "Los Angeles Lakers",
+        "Continental Basketball Association",
+        "Golden State Warriors",
+        "Boston Celtics",
+        "Sacramento Kings",
+        "Detroit Pistons",
+        "Houston Rockets",
+        "New York Knicks",
+        "Milwaukee Bucks"
+      ]
+    },
+    {
+      "count": 8023,
+      "dimension": 0.27,
+      "categories": [
+        "Sciatori figli d'arte",
+        "Vincitori della Coppa Europa di sci alpino",
+        "Vincitori della Nor-Am Cup",
+        "Vincitori della Coppa del Mondo di slalom speciale",
+        "Vincitori della Coppa del Mondo di slalom gigante",
+        "Sciatori alpini jugoslavi",
+        "Campionati italiani di sci alpino",
+        "Campionati tedeschi di sci alpino",
+        "Campionati canadesi di sci alpino",
+        "Campionati austriaci di sci alpino"
+      ],
+      "page_rank_centers": [
+        "Coppa del Mondo di sci alpino",
+        "Campionati mondiali di sci alpino",
+        "Slalom speciale",
+        "Slalom gigante",
+        "Discesa libera",
+        "Combinata alpina",
+        "Supergigante",
+        "Coppa Europa di sci alpino",
+        "Val-d'Isère",
+        "Tignes"
+      ],
+      "random_walk_center": [
+        "Coppa del Mondo di sci alpino",
+        "Campionati mondiali di sci alpino",
+        "Demänovská Dolina",
+        "Slalom speciale",
+        "Slalom gigante",
+        "Discesa libera",
+        "Supergigante",
+        "Combinata alpina",
+        "Härjedalen (comune)",
+        "Coppa Europa di sci alpino"
+      ]
+    },
+    {
+      "count": 6538,
+      "dimension": 0.22,
+      "categories": [
+        "Wrestler della WWE",
+        "Wrestler della Total Nonstop Action Wrestling",
+        "Membri della WWE Hall of Fame",
+        "Wrestler femminili",
+        "Tag team e stable della WWE",
+        "Wrestler della All Elite Wrestling",
+        "Wrestler della Ring of Honor",
+        "Manager di wrestling",
+        "Titoli della National Wrestling Alliance",
+        "Wrestler figli d'arte"
+      ],
+      "page_rank_centers": [
+        "WWE",
+        "Glossario del wrestling",
+        "Tipi di match di wrestling",
+        "Pro Wrestling Illustrated",
+        "Total Nonstop Action Wrestling",
+        "WWE Raw",
+        "National Wrestling Alliance",
+        "World Championship Wrestling",
+        "Heel (wrestling)",
+        "Prese di sottomissione di wrestling"
+      ],
+      "random_walk_center": [
+        "WWE",
+        "Glossario del wrestling",
+        "Tipi di match di wrestling",
+        "Pro Wrestling Illustrated",
+        "Total Nonstop Action Wrestling",
+        "National Wrestling Alliance",
+        "Heel (wrestling)",
+        "World Championship Wrestling",
+        "WWE Raw",
+        "Feud"
+      ]
+    },
+    {
+      "count": 5945,
+      "dimension": 0.2,
+      "categories": [
+        "Comuni del distretto di Cəlilabad",
+        "Comuni del distretto di Bərdə",
+        "Comuni del distretto di Masallı",
+        "Comuni del distretto di Quba",
+        "Comuni del distretto di Lerik",
+        "Comuni del distretto di Sabirabad",
+        "Comuni del distretto di Lənkəran",
+        "Comuni del distretto di Qusar",
+        "Comuni del distretto di İsmayıllı",
+        "Comuni del distretto di Xaçmaz"
+      ],
+      "page_rank_centers": [
+        "Azerbaigian",
+        "GEOnet Names Server",
+        "Distretto di Qusar",
+        "Distretto di Quba",
+        "Distretto di Xaçmaz",
+        "Distretto di Şabran",
+        "Distretto di Siyəzən",
+        "Yuxarı Çardaqlar",
+        "Distretto di Zaqatala",
+        "Distretto di Cəlilabad"
+      ],
+      "random_walk_center": [
+        "Azerbaigian",
+        "Distretto di Qusar",
+        "GEOnet Names Server",
+        "Distretto di Quba",
+        "Distretto di Xaçmaz",
+        "Distretto di Siyəzən",
+        "Yuxarı Çardaqlar",
+        "Distretto di Şabran",
+        "Distretto di Zaqatala",
+        "Çiləgir (Qusar)"
+      ]
+    },
+    {
+      "count": 5794,
+      "dimension": 0.195,
+      "categories": [
+        "Comuni del circondario dell'Eifel-Bitburg-Prüm",
+        "Comuni del circondario del Westerwald",
+        "Comuni del circondario di Rendsburg-Eckernförde",
+        "Comuni del circondario del Reno-Hunsrück",
+        "Comunità amministrative della Renania-Palatinato",
+        "Comuni del circondario del Reno-Lahn",
+        "Comuni del circondario del ducato di Lauenburg",
+        "Comuni del circondario di Ludwigslust-Parchim",
+        "Comuni del circondario di Altenkirchen (Westerwald)",
+        "Comuni del circondario della Frisia Settentrionale"
+      ],
+      "page_rank_centers": [
+        "Circondari della Germania",
+        "Comuni della Germania",
+        "Comunità amministrative della Germania",
+        "Targhe d'immatricolazione della Germania",
+        "Renania-Palatinato",
+        "Schleswig-Holstein",
+        "Circondario di Steinburg",
+        "List auf Sylt",
+        "Neuendorf-Sachsenbande",
+        "Wiedenborstel"
+      ],
+      "random_walk_center": [
+        "Circondari della Germania",
+        "Comuni della Germania",
+        "Comunità amministrative della Germania",
+        "Schleswig-Holstein",
+        "Renania-Palatinato",
+        "Targhe d'immatricolazione della Germania",
+        "Circondario di Steinburg",
+        "Circondario della Frisia Settentrionale",
+        "Neuendorf-Sachsenbande",
+        "List auf Sylt"
+      ]
+    },
+    {
+      "count": 4679,
+      "dimension": 0.158,
+      "categories": [
+        "Vincitori dell'Australian Open",
+        "Membri dell'International Tennis Hall of Fame",
+        "Stagioni del Grand Prix",
+        "Vincitori dell'Open di Francia",
+        "Stagioni del World Championship Tennis",
+        "Vincitori del Torneo di Wimbledon",
+        "Redirect da mantenere orfani",
+        "Edizioni della Coppa Davis",
+        "Membri della Sport Australia Hall of Fame",
+        "South Australian Open 1977"
+      ],
+      "page_rank_centers": [
+        "Ilie Năstase",
+        "Stan Smith",
+        "John Newcombe",
+        "Jimmy Connors",
+        "Arthur Ashe",
+        "Raúl Ramírez",
+        "Jan Kodeš",
+        "Marty Riessen",
+        "Brian Gottfried",
+        "Tom Okker"
+      ],
+      "random_walk_center": [
+        "Ilie Năstase",
+        "Stan Smith",
+        "Arthur Ashe",
+        "John Newcombe",
+        "Jimmy Connors",
+        "Raúl Ramírez",
+        "Jan Kodeš",
+        "Marty Riessen",
+        "Frew McMillan",
+        "Rod Laver"
+      ]
+    },
+    {
+      "count": 3453,
+      "dimension": 0.116,
+      "categories": [
+        "Circoscrizioni del distretto di Mjini",
+        "Circoscrizioni del distretto di Muleba",
+        "Circoscrizioni del distretto di Kati",
+        "Circoscrizioni del distretto di Magharibi",
+        "Circoscrizioni del distretto urbano di Mbeya",
+        "Circoscrizioni del distretto di Geita",
+        "Circoscrizioni del distretto di Tunduru",
+        "Circoscrizioni del distretto di Kaskazini A",
+        "Circoscrizioni del distretto rurale di Kahama",
+        "Circoscrizioni del distretto di Kilosa"
+      ],
+      "page_rank_centers": [
+        "Tanzania",
+        "Distretti della Tanzania",
+        "Circoscrizioni della Tanzania",
+        "Regione del Manyara",
+        "Distretto di Simanjiro",
+        "Distretto rurale di Babati",
+        "Distretto di Mbulu",
+        "Distretto di Hanang",
+        "Distretto urbano di Babati",
+        "Distretto di Kiteto"
+      ],
+      "random_walk_center": [
+        "Tanzania",
+        "Distretti della Tanzania",
+        "Regione del Manyara",
+        "Circoscrizioni della Tanzania",
+        "Distretto di Simanjiro",
+        "Distretto di Mbulu",
+        "Distretto rurale di Babati",
+        "Distretto di Hanang",
+        "Distretto urbano di Babati",
+        "Distretto di Kiteto"
+      ]
+    },
+    {
+      "count": 3426,
+      "dimension": 0.115,
+      "categories": [
+        "Calciatori della Nazionale norvegese",
+        "Campionato norvegese di calcio",
+        "Giocatori di calcio a 5 della Nazionale norvegese",
+        "Eliteserien",
+        "Edizioni della Coppa di Norvegia",
+        "Calciatori figli d'arte",
+        "Calciatori della Nazionale islandese",
+        "Squadre norvegesi di calcio a 5",
+        "Edizioni della Norgesmesterskapet G19",
+        "Campionato norvegese di calcio a 5"
+      ],
+      "page_rank_centers": [
+        "Eliteserien",
+        "Norges Fotballforbund",
+        "1. divisjon",
+        "Campionato norvegese di calcio",
+        "2. divisjon",
+        "Fotballklubben Lyn Oslo",
+        "3. divisjon",
+        "Rosenborg Ballklub",
+        "Vålerenga Fotball",
+        "Oslo Fotballkrets"
+      ],
+      "random_walk_center": [
+        "Eliteserien",
+        "Norges Fotballforbund",
+        "1. divisjon",
+        "Campionato norvegese di calcio",
+        "2. divisjon",
+        "Fotballklubben Lyn Oslo",
+        "3. divisjon",
+        "Oslo Fotballkrets",
+        "Rosenborg Ballklub",
+        "Vålerenga Fotball"
+      ]
+    },
+    {
+      "count": 2613,
+      "dimension": 0.088,
+      "categories": [
+        "Stelle di classe spettrale K",
+        "Stelle di classe spettrale B",
+        "Giganti rosse",
+        "Stelle bianco-azzurre di sequenza principale",
+        "Stelle di classe spettrale A",
+        "Stelle di classe spettrale F",
+        "Stelle bianche di sequenza principale",
+        "Stelle di classe spettrale G",
+        "Stelle bianco-gialle di sequenza principale",
+        "Giganti gialle"
+      ],
+      "page_rank_centers": [
+        "Milliarcosecondo",
+        "Occhio nudo",
+        "Inquinamento luminoso",
+        "Sequenza principale",
+        "Catalogo Hipparcos",
+        "Catalogo SAO",
+        "Binocolo",
+        "Circolo polare artico",
+        "J2000.0",
+        "Catalogo Henry Draper"
+      ],
+      "random_walk_center": [
+        "Milliarcosecondo",
+        "Occhio nudo",
+        "Sequenza principale",
+        "Inquinamento luminoso",
+        "Catalogo Hipparcos",
+        "Stella gigante",
+        "Gigante rossa",
+        "Binocolo",
+        "Equatore celeste",
+        "Catalogo SAO"
+      ]
+    },
+    {
+      "count": 2194,
+      "dimension": 0.074,
+      "categories": [
+        "Baseball Hall of Fame",
+        "World Series",
+        "Stagioni della Major League Baseball",
+        "Terminologia del baseball",
+        "Stagioni della NPB",
+        "Lanciatori di partita perfetta",
+        "Major League Baseball",
+        "Stadi della Major League Baseball",
+        "Competizioni statunitensi di baseball",
+        "Squadre di baseball giapponesi"
+      ],
+      "page_rank_centers": [
+        "Major League Baseball",
+        "Lanciatore",
+        "World Series",
+        "Los Angeles Dodgers",
+        "Major League Baseball All-Star Game",
+        "St. Louis Cardinals",
+        "New York Yankees",
+        "National League of Professional Baseball Clubs",
+        "American League of Professional Baseball Clubs",
+        "Fuoricampo (baseball)"
+      ],
+      "random_walk_center": [
+        "Major League Baseball",
+        "Lanciatore",
+        "World Series",
+        "St. Louis Cardinals",
+        "New York Yankees",
+        "Los Angeles Dodgers",
+        "National League of Professional Baseball Clubs",
+        "American League of Professional Baseball Clubs",
+        "Major League Baseball All-Star Game",
+        "Fuoricampo (baseball)"
+      ]
+    },
+    {
+      "count": 1883,
+      "dimension": 0.063,
+      "categories": [
+        "Vincitori della Coppa del Mondo di biathlon",
+        "Edizioni della Coppa del Mondo di biathlon",
+        "Campionati mondiali di biathlon",
+        "World Team Challenge",
+        "Campionati mondiali juniores di biathlon",
+        "Casi di doping nel biathlon",
+        "Campionati europei di biathlon",
+        "Vincitori della medaglia Holmenkollen",
+        "Biatleti sovietici",
+        "Biathlon ai XXIII Giochi olimpici invernali"
+      ],
+      "page_rank_centers": [
+        "Campionati mondiali di biathlon",
+        "Coppa del Mondo di biathlon",
+        "Coppa del Mondo di biathlon 1997",
+        "Rasun-Anterselva",
+        "Ruhpolding",
+        "Coppa del Mondo di biathlon 1994",
+        "Hochfilzen",
+        "Östersund",
+        "Pokljuka",
+        "International Biathlon Union"
+      ],
+      "random_walk_center": [
+        "Campionati mondiali di biathlon",
+        "Coppa del Mondo di biathlon",
+        "Ruhpolding",
+        "Coppa del Mondo di biathlon 1997",
+        "Rasun-Anterselva",
+        "Hochfilzen",
+        "Östersund",
+        "Pokljuka",
+        "Coppa del Mondo di biathlon 1994",
+        "International Biathlon Union"
+      ]
+    },
+    {
+      "count": 1803,
+      "dimension": 0.061,
+      "categories": [
+        "Numeri interi",
+        "Successioni di interi",
+        "Numeri figurati",
+        "Teoria dei numeri",
+        "Successioni di numeri primi",
+        "Funzione totiente",
+        "Sistemi di numerazione per base",
+        "Numeri primi",
+        "Numeri",
+        "Matematica di base"
+      ],
+      "page_rank_centers": [
+        "Divisore",
+        "Numero naturale",
+        "Numeri pari e dispari",
+        "Sistema numerico decimale",
+        "2 (numero)",
+        "Terna pitagorica",
+        "Sistema di numerazione posizionale",
+        "Numero difettivo",
+        "Numero palindromo",
+        "Numero composto"
+      ],
+      "random_walk_center": [
+        "Divisore",
+        "Numero naturale",
+        "Sistema numerico decimale",
+        "Numeri pari e dispari",
+        "2 (numero)",
+        "Sistema di numerazione posizionale",
+        "Terna pitagorica",
+        "Numero difettivo",
+        "Quadrato perfetto",
+        "Numero palindromo"
+      ]
+    },
+    {
+      "count": 1756,
+      "dimension": 0.059,
+      "categories": [
+        "Comuni della provincia di Médéa",
+        "Comuni della provincia di Sétif",
+        "Comuni della provincia di Batna",
+        "Comuni della provincia di Sidi Bel Abbes",
+        "Comuni della provincia di Béjaïa",
+        "Comuni della provincia di Mascara",
+        "Comuni della provincia di Tiaret",
+        "Comuni della provincia di M'Sila",
+        "Comuni della provincia di Bouira",
+        "Comuni della provincia di Relizane"
+      ],
+      "page_rank_centers": [
+        "Comuni dell'Algeria",
+        "Distretti dell'Algeria",
+        "Provincia di Médéa",
+        "Provincia di Sétif",
+        "Provincia di Batna",
+        "Provincia di Sidi Bel Abbès",
+        "Provincia di Béjaïa",
+        "Provincia di Mascara",
+        "Provincia di M'Sila",
+        "Provincia di Tiaret"
+      ],
+      "random_walk_center": [
+        "Comuni dell'Algeria",
+        "Distretti dell'Algeria",
+        "Provincia di Médéa",
+        "Provincia di Sétif",
+        "Provincia di Batna",
+        "Provincia di Sidi Bel Abbès",
+        "Provincia di Béjaïa",
+        "Provincia di M'Sila",
+        "Provincia di Mascara",
+        "Provincia di Relizane"
+      ]
+    },
+    {
+      "count": 1442,
+      "dimension": 0.049,
+      "categories": [
+        "Vincitori di medaglia d'oro olimpica per gli Stati Uniti d'America",
+        "Draft WNBA",
+        "Stagioni WNBA",
+        "Pallacanestro nel 2001",
+        "Pallacanestro nel 2002",
+        "Pallacanestro nel 2000",
+        "Pallacanestro nel 2003",
+        "Pallacanestro nel 2006",
+        "Pallacanestro nel 2008",
+        "Pallacanestro nel 2004"
+      ],
+      "page_rank_centers": [
+        "Women's National Basketball Association",
+        "American Basketball League (1996-1998)",
+        "Dallas Wings",
+        "Las Vegas Aces",
+        "New York Liberty",
+        "Los Angeles Sparks",
+        "Minnesota Lynx",
+        "Washington Mystics",
+        "Phoenix Mercury",
+        "Seattle Storm"
+      ],
+      "random_walk_center": [
+        "Women's National Basketball Association",
+        "American Basketball League (1996-1998)",
+        "Los Angeles Sparks",
+        "Las Vegas Aces",
+        "Minnesota Lynx",
+        "Phoenix Mercury",
+        "Dallas Wings",
+        "New York Liberty",
+        "Washington Mystics",
+        "Seattle Storm"
+      ]
+    },
+    {
+      "count": 1414,
+      "dimension": 0.048,
+      "categories": [
+        "Comuni del distretto di Manakara",
+        "Comuni del distretto di Farafangana",
+        "Comuni del distretto di Vangaindrano",
+        "Comuni del distretto di Sambava",
+        "Comuni del distretto di Mananjary",
+        "Comuni del distretto di Tolagnaro",
+        "Comuni del distretto di Mandritsara",
+        "Comuni del distretto di Antsirabe II",
+        "Comuni del distretto di Ambositra",
+        "Comuni del distretto di Moramanga"
+      ],
+      "page_rank_centers": [
+        "Distretti del Madagascar",
+        "Suddivisioni del Madagascar",
+        "Regione di Sofia (Madagascar)",
+        "Regione di Vatovavy-Fitovinany",
+        "Regione di Atsimo-Atsinanana",
+        "Regione di Atsinanana",
+        "Regione di Atsimo-Andrefana",
+        "Regione di Haute Matsiatra",
+        "Regione di Analanjirofo",
+        "Regione di Menabe"
+      ],
+      "random_walk_center": [
+        "Distretti del Madagascar",
+        "Suddivisioni del Madagascar",
+        "Regione di Sofia (Madagascar)",
+        "Regione di Atsinanana",
+        "Regione di Atsimo-Andrefana",
+        "Regione di Atsimo-Atsinanana",
+        "Regione di Vatovavy-Fitovinany",
+        "Regione di Haute Matsiatra",
+        "Regione di Boeny",
+        "Regione di Analanjirofo"
+      ]
+    },
+    {
+      "count": 1189,
+      "dimension": 0.04,
+      "categories": [
+        "Comuni della Côte-d'Or",
+        "Comuni dell'Alta Saona",
+        "Cantoni della Côte-d'Or soppressi",
+        "Cantoni dell'Alta Saona soppressi",
+        "Cantoni dell'Alta Saona",
+        "Cantoni della Côte-d'Or",
+        "Fiumi della Borgogna-Franca Contea",
+        "Fiumi del Grand Est",
+        "Arrondissement della Côte-d'Or",
+        "Frazioni della Borgogna-Franca Contea"
+      ],
+      "page_rank_centers": [
+        "Alta Saona",
+        "Côte-d'Or",
+        "Saint-Loup-sur-Semouse",
+        "Ray-sur-Saône",
+        "Faverney",
+        "Bucey-lès-Gy",
+        "Montbozon",
+        "Vauvillers (Alta Saona)",
+        "Fondremand",
+        "Lanterne (fiume)"
+      ],
+      "random_walk_center": [
+        "Alta Saona",
+        "Côte-d'Or",
+        "Montbozon",
+        "Fondremand",
+        "Vauvillers (Alta Saona)",
+        "Bucey-lès-Gy",
+        "Ray-sur-Saône",
+        "Faverney",
+        "Saint-Loup-sur-Semouse",
+        "Lanterne (fiume)"
+      ]
+    },
+    {
+      "count": 1112,
+      "dimension": 0.037,
+      "categories": [
+        "Film Hepworth",
+        "Cortometraggi muti britannici",
+        "Cortometraggi commedia",
+        "Cortometraggi drammatici",
+        "Film documentari britannici",
+        "Film diretti da Lewin Fitzhamon",
+        "Film drammatici",
+        "Cinema muto britannico",
+        "Cortometraggi western",
+        "Hepworth"
+      ],
+      "page_rank_centers": [
+        "Cecil Hepworth",
+        "Hepworth (azienda)",
+        "Filmografia della Hepworth",
+        "Lewin Fitzhamon",
+        "Comin' Thro' the Rye (film 1916)",
+        "Comin' Thro the Rye (film 1923)",
+        "Alma Taylor",
+        "Frank Wilson (regista)",
+        "Chrissie White",
+        "Hay Plumb"
+      ],
+      "random_walk_center": [
+        "Cecil Hepworth",
+        "Hepworth (azienda)",
+        "Filmografia della Hepworth",
+        "Comin' Thro' the Rye (film 1916)",
+        "Alma Taylor",
+        "Comin' Thro the Rye (film 1923)",
+        "Lewin Fitzhamon",
+        "Frank Wilson (regista)",
+        "Chrissie White",
+        "Stewart Rome"
+      ]
+    },
+    {
+      "count": 1066,
+      "dimension": 0.036,
+      "categories": [
+        "Campionati mondiali di triathlon",
+        "Campionati europei di triathlon",
+        "Triathlon nel 2018",
+        "Campionati italiani di triathlon",
+        "Triathlon nel 2019",
+        "Triathlon nel 2015",
+        "Triathlon nel 2014",
+        "Triathlon nel 2017",
+        "Triathlon nel 2016",
+        "Campionati europei di duathlon"
+      ],
+      "page_rank_centers": [
+        "Campionati mondiali di triathlon",
+        "Campionati europei di triathlon",
+        "Triathlon ai Giochi olimpici",
+        "Triathlon ai Giochi del Commonwealth",
+        "Campionati del mondo Ironman 70.3",
+        "Federazione Italiana Triathlon",
+        "Campionati italiani di triathlon",
+        "Triathlon ai Giochi della XXXI Olimpiade - Gara maschile",
+        "Campionati mondiali di triathlon long distance",
+        "Campionati del mondo Ironman"
+      ],
+      "random_walk_center": [
+        "Campionati mondiali di triathlon",
+        "Campionati europei di triathlon",
+        "Triathlon ai Giochi olimpici",
+        "Triathlon ai Giochi del Commonwealth",
+        "Triathlon ai Giochi della XXXI Olimpiade - Gara maschile",
+        "Campionati del mondo Ironman 70.3",
+        "Campionati europei di triathlon del 2017",
+        "Campionati del mondo di triathlon del 2002",
+        "Alistair Brownlee",
+        "Sven Riederer"
+      ]
+    },
+    {
+      "count": 949,
+      "dimension": 0.032,
+      "categories": [
+        "Funghi commestibili",
+        "Taxa classificati da Elias Magnus Fries",
+        "Funghi non commestibili",
+        "Tricholomataceae",
+        "Russulaceae",
+        "Agaricales",
+        "Boletaceae",
+        "Cortinariaceae",
+        "Funghi velenosi",
+        "Agaricomycetes"
+      ],
+      "page_rank_centers": [
+        "Basidiomycota",
+        "Agaricomycetes",
+        "Gambo (micologia)",
+        "Cappello (micologia)",
+        "Agaricales",
+        "Agaricomycotina",
+        "Basidio",
+        "Odore (micologia)",
+        "Lamella (micologia)",
+        "Trametes versicolor"
+      ],
+      "random_walk_center": [
+        "Basidiomycota",
+        "Agaricomycetes",
+        "Gambo (micologia)",
+        "Cappello (micologia)",
+        "Agaricomycotina",
+        "Basidio",
+        "Agaricales",
+        "Lamella (micologia)",
+        "Trametes versicolor",
+        "Odore (micologia)"
+      ]
+    },
+    {
+      "count": 921,
+      "dimension": 0.031,
+      "categories": [
+        "Comuni della regione di Sikasso",
+        "Comuni della regione di Kayes",
+        "Comuni della regione di Ségou",
+        "Comuni della regione di Koulikoro",
+        "Comuni della regione di Mopti",
+        "Circondari del Mali",
+        "Comuni della regione di Kidal",
+        "Regioni del Mali",
+        "Elezioni parlamentari in Mali",
+        "Elezioni in Africa del 2020"
+      ],
+      "page_rank_centers": [
+        "Comuni del Mali",
+        "Regione di Sikasso",
+        "Regione di Kayes",
+        "Circondari del Mali",
+        "Regione di Mopti",
+        "Regione di Ségou",
+        "Regione di Koulikoro",
+        "Circondario di Sikasso",
+        "Circondario di Koutiala",
+        "Circondario di Kita"
+      ],
+      "random_walk_center": [
+        "Comuni del Mali",
+        "Circondari del Mali",
+        "Regione di Sikasso",
+        "Regione di Kayes",
+        "Regione di Ségou",
+        "Regione di Mopti",
+        "Regione di Koulikoro",
+        "Circondario di Sikasso",
+        "Circondario di Koutiala",
+        "Circondario di Ségou"
+      ]
+    },
+    {
+      "count": 913,
+      "dimension": 0.031,
+      "categories": [
+        "Villaggi del Botswana",
+        "Sottodistretti del Botswana",
+        "Distretti del Botswana",
+        "Città del Botswana",
+        "Forze di polizia",
+        "Botswana",
+        "Suddivisioni del Botswana",
+        "Località del Botswana",
+        "Centri abitati del Botswana",
+        "Shashe-Mooke"
+      ],
+      "page_rank_centers": [
+        "Distretti del Botswana",
+        "Sottodistretti del Botswana",
+        "Distretto Centrale (Botswana)",
+        "Distretto di Kgalagadi",
+        "Tutume",
+        "Jwaneng",
+        "Distretto Meridionale (Botswana)",
+        "Mahalapye",
+        "Sowa Town",
+        "Distretto di Ghanzi"
+      ],
+      "random_walk_center": [
+        "Distretti del Botswana",
+        "Sottodistretti del Botswana",
+        "Distretto Centrale (Botswana)",
+        "Mahalapye",
+        "Distretto di Kgalagadi",
+        "Tutume",
+        "Jwaneng",
+        "Sowa Town",
+        "Distretto Meridionale (Botswana)",
+        "Serowe Palapye"
+      ]
+    }
+  ]
+}

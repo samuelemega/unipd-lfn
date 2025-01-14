@@ -1,0 +1,1218 @@
+{
+  "info": {
+    "vertices_count": 2970096,
+    "edges_count": 54599176,
+    "algotithm_duration": 660.9271829128265
+  },
+  "communities_statistics": {
+    "mean_modularity": 0.6560755519898979,
+    "mean_soergel": 0.9929220057800839,
+    "count": 57695,
+    "mean": 51.47926163445706,
+    "median": 1.0,
+    "iqr": 0.0,
+    "giant_component": 347104
+  },
+  "communities": [
+    {
+      "count": 347104,
+      "dimension": 11.687,
+      "categories": [
+        "Santi per nome",
+        "Sedi titolari cattoliche",
+        "Istituti religiosi femminili",
+        "Comuni della Lombardia soppressi",
+        "Massoni",
+        "Chiese dedicate a Maria",
+        "Cognomi italiani",
+        "Chiese dedicate a santa Maria Assunta",
+        "Chiese dell'arcidiocesi di Trento",
+        "Membri dell'Accademia delle Scienze di Torino"
+      ],
+      "page_rank_centers": [
+        "Roma",
+        "Chiesa cattolica",
+        "Lingua latina",
+        "Firenze",
+        "Spagna",
+        "Milano",
+        "XIX secolo",
+        "Medioevo",
+        "XVIII secolo",
+        "XVI secolo"
+      ],
+      "random_walk_center": [
+        "Roma",
+        "Chiesa cattolica",
+        "Spagna",
+        "Lingua latina",
+        "Milano",
+        "Firenze",
+        "Medioevo",
+        "XIX secolo",
+        "Papa",
+        "Venezia"
+      ]
+    },
+    {
+      "count": 326009,
+      "dimension": 10.976,
+      "categories": [
+        "Medaglie d'oro al valor militare",
+        "Medaglie d'argento al valor militare",
+        "Ufficiali del Regio Esercito",
+        "Aerei militari dal 1931 al 1945",
+        "Medaglie di bronzo al valor militare",
+        "Militari italiani della prima guerra mondiale",
+        "Naviglio militare della seconda guerra mondiale",
+        "Aerei militari della seconda guerra mondiale",
+        "Massoni",
+        "Incidenti e disastri aerei causati da errore del pilota"
+      ],
+      "page_rank_centers": [
+        "Seconda guerra mondiale",
+        "Francia",
+        "Russia",
+        "Romania",
+        "Cina",
+        "Unione Sovietica",
+        "Prima guerra mondiale",
+        "Ungheria",
+        "Lingua russa",
+        "Lingua tedesca"
+      ],
+      "random_walk_center": [
+        "Seconda guerra mondiale",
+        "Francia",
+        "Cina",
+        "Prima guerra mondiale",
+        "Russia",
+        "Unione Sovietica",
+        "Economia",
+        "Metro",
+        "Stato",
+        "Unione europea"
+      ]
+    },
+    {
+      "count": 283026,
+      "dimension": 9.529,
+      "categories": [
+        "Film drammatici",
+        "Cortometraggi drammatici",
+        "Cortometraggi commedia",
+        "Film commedia",
+        "Attori televisivi statunitensi",
+        "Cortometraggi muti statunitensi",
+        "Film d'avventura",
+        "Film thriller",
+        "Film sentimentali",
+        "Film commedia drammatica"
+      ],
+      "page_rank_centers": [
+        "Italia",
+        "Film",
+        "Lingua inglese",
+        "Lingua italiana",
+        "Cortometraggio",
+        "Fiction televisiva",
+        "Cinema",
+        "Televisione",
+        "William Shakespeare",
+        "Romanzo"
+      ],
+      "random_walk_center": [
+        "Italia",
+        "Film",
+        "Lingua inglese",
+        "Lingua italiana",
+        "Cinema",
+        "Cortometraggio",
+        "Televisione",
+        "Fiction televisiva",
+        "William Shakespeare",
+        "Teatro"
+      ]
+    },
+    {
+      "count": 240986,
+      "dimension": 8.114,
+      "categories": [
+        "Calciatori inglesi",
+        "Calciatori scozzesi",
+        "Calciatori della Nazionale argentina",
+        "Calciatori della Nazionale italiana",
+        "Calciatori della Nazionale brasiliana",
+        "Calciatori figli d'arte",
+        "Calciatori della Nazionale inglese",
+        "Calciatori della Nazionale spagnola",
+        "Calciatori campioni d'Europa di club",
+        "Calciatori campioni del Sud America"
+      ],
+      "page_rank_centers": [
+        "Calcio (sport)",
+        "Centrocampista",
+        "Attaccante",
+        "Difensore",
+        "La Gazzetta dello Sport",
+        "Allenatore",
+        "Difensore (calcio)",
+        "Attaccante (calcio)",
+        "Gol",
+        "UEFA"
+      ],
+      "random_walk_center": [
+        "Calcio (sport)",
+        "Centrocampista",
+        "La Gazzetta dello Sport",
+        "Allenatore",
+        "Attaccante",
+        "FIFA",
+        "Squadra (sport)",
+        "UEFA",
+        "Squadra di calcio",
+        "Gol"
+      ]
+    },
+    {
+      "count": 236742,
+      "dimension": 7.971,
+      "categories": [
+        "Taxa classificati da Linneo",
+        "Fauna africana",
+        "Fauna asiatica",
+        "Microchirotteri",
+        "Asteroideae",
+        "Miomorfi",
+        "Comuni del Minas Gerais",
+        "Salticidae",
+        "Fauna sudamericana",
+        "Fauna europea"
+      ],
+      "page_rank_centers": [
+        "Eukaryota",
+        "Animalia",
+        "Brasile",
+        "Specie",
+        "Famiglia (tassonomia)",
+        "Mesoregioni del Brasile",
+        "Chordata",
+        "Plantae",
+        "Lingua spagnola",
+        "Genere (tassonomia)"
+      ],
+      "random_walk_center": [
+        "Eukaryota",
+        "Animalia",
+        "Specie",
+        "Plantae",
+        "Famiglia (tassonomia)",
+        "Tassonomia",
+        "Chordata",
+        "Aves",
+        "Brasile",
+        "Clado"
+      ]
+    },
+    {
+      "count": 207315,
+      "dimension": 6.98,
+      "categories": [
+        "Vincitori di Grammy",
+        "Album al numero uno in Italia",
+        "Autori partecipanti al Festival di Sanremo",
+        "Partecipanti al Festival di Sanremo",
+        "Gruppi e musicisti della Lombardia",
+        "Vincitori di MTV Europe Music Award",
+        "Singoli al numero uno negli Stati Uniti d'America",
+        "Discografie di artisti statunitensi",
+        "Concept album",
+        "Gruppi e musicisti del Lazio"
+      ],
+      "page_rank_centers": [
+        "Regno Unito",
+        "New York",
+        "Album in studio",
+        "Canto",
+        "Batteria (strumento musicale)",
+        "Basso elettrico",
+        "Singolo (musica)",
+        "Gruppo musicale",
+        "Chitarra",
+        "Compact disc"
+      ],
+      "random_walk_center": [
+        "Regno Unito",
+        "New York",
+        "Canto",
+        "Jazz",
+        "Batteria (strumento musicale)",
+        "Musica",
+        "Chitarra",
+        "Los Angeles",
+        "Svezia",
+        "Basso elettrico"
+      ]
+    },
+    {
+      "count": 166138,
+      "dimension": 5.594,
+      "categories": [
+        "Formule molecolari",
+        "Oggetti del catalogo NGC",
+        "Crateri lunari",
+        "Crateri di Marte",
+        "Stelle di classe spettrale K",
+        "Crateri di Venere",
+        "Stelle di classe spettrale B",
+        "Galassie a spirale",
+        "Caratteristiche esogeologiche lunari con crateri correlati",
+        "Candidati al premio Nobel"
+      ],
+      "page_rank_centers": [
+        "Matematica",
+        "Cratere meteoritico",
+        "Acqua",
+        "Fisica",
+        "Terra",
+        "Enzima",
+        "Ossigeno",
+        "Chimica",
+        "Antartide",
+        "Temperatura"
+      ],
+      "random_walk_center": [
+        "Matematica",
+        "Fisica",
+        "Numero reale",
+        "Insieme",
+        "Acqua",
+        "Funzione (matematica)",
+        "Chimica",
+        "Atomo",
+        "Elettrone",
+        "Geometria"
+      ]
+    },
+    {
+      "count": 157928,
+      "dimension": 5.317,
+      "categories": [
+        "Centri abitati del Tamil Nadu",
+        "Centri abitati dell'Uttar Pradesh",
+        "Consoli repubblicani romani",
+        "Consoli imperiali romani",
+        "Prenomi di origine latina",
+        "Prenomi di origine greca",
+        "Upazila",
+        "Tombe dei Nobili",
+        "Redirect da mantenere orfani",
+        "Centri abitati del Madhya Pradesh"
+      ],
+      "page_rank_centers": [
+        "India",
+        "2001",
+        "Lingua greca",
+        "Cristianesimo",
+        "Filosofia",
+        "Lingua greca antica",
+        "Lingua persiana",
+        "Islam",
+        "Grecia",
+        "Stati federati e territori dell'India"
+      ],
+      "random_walk_center": [
+        "India",
+        "Lingua greca",
+        "Filosofia",
+        "Impero romano",
+        "Islam",
+        "Cristianesimo",
+        "Lingua greca antica",
+        "Aristotele",
+        "Linguistica",
+        "Egitto"
+      ]
+    },
+    {
+      "count": 136861,
+      "dimension": 4.608,
+      "categories": [
+        "Liste di persone per nome",
+        "Liste di nati nel XX secolo",
+        "Liste di morti nel XX secolo",
+        "Liste di persone per cognome",
+        "Film drammatici",
+        "Candidati al premio Nobel",
+        "Vincitori di medaglie alle Olimpiadi degli scacchi",
+        "Cavalieri dell'Ordine della Giarrettiera",
+        "Calciatori della Nazionale tedesca",
+        "Liste di nati per giorno"
+      ],
+      "page_rank_centers": [
+        "Inghilterra",
+        "Parigi",
+        "Londra",
+        "Scozia",
+        "Contee dell'Inghilterra",
+        "Galles",
+        "Lingua irlandese",
+        "National Basketball League (Stati Uniti d'America)",
+        "Parrocchie civili dell'Inghilterra",
+        "Università di Oxford"
+      ],
+      "random_walk_center": [
+        "Inghilterra",
+        "Londra",
+        "Parigi",
+        "Scozia",
+        "Galles",
+        "Abilitazione",
+        "Lingua irlandese",
+        "Contee dell'Inghilterra",
+        "China Film Performance Art Academy",
+        "Irlanda del Nord"
+      ]
+    },
+    {
+      "count": 100021,
+      "dimension": 3.368,
+      "categories": [
+        "Serie anime basate su manga",
+        "Stazioni della JR East",
+        "Stazioni della JR West",
+        "Smartphone",
+        "Samurai",
+        "Dispositivi Android",
+        "Anime e manga scolastici",
+        "Terminologia informatica",
+        "Daimyō",
+        "Anime con sceneggiature originali"
+      ],
+      "page_rank_centers": [
+        "Giappone",
+        "Informatica",
+        "Titolo di città in Giappone",
+        "Videogioco",
+        "Computer",
+        "Manga",
+        "Anime",
+        "Software",
+        "Internet",
+        "Lingua giapponese"
+      ],
+      "random_walk_center": [
+        "Giappone",
+        "Informatica",
+        "Titolo di città in Giappone",
+        "Computer",
+        "Telecomunicazione",
+        "Software",
+        "Sistema operativo",
+        "Elettronica",
+        "Internet",
+        "Informazione"
+      ]
+    },
+    {
+      "count": 86034,
+      "dimension": 2.897,
+      "categories": [
+        "Politici del Partito Democratico (Stati Uniti d'America)",
+        "Politici del Partito Repubblicano (Stati Uniti d'America)",
+        "Comuni del Texas",
+        "Census-designated place della California",
+        "Comuni dell'Iowa",
+        "Comuni del Wisconsin",
+        "Villaggi dell'Illinois",
+        "Comuni del Minnesota",
+        "Borough della Pennsylvania",
+        "Comuni dello stato di New York"
+      ],
+      "page_rank_centers": [
+        "Stati Uniti d'America",
+        "Comuni degli Stati Uniti d'America",
+        "Canada",
+        "2000",
+        "Ufficio del censimento degli Stati Uniti d'America",
+        "Partito Democratico (Stati Uniti d'America)",
+        "California",
+        "Census-designated place",
+        "Nativi americani",
+        "Virginia"
+      ],
+      "random_walk_center": [
+        "Stati Uniti d'America",
+        "Canada",
+        "Comuni degli Stati Uniti d'America",
+        "Partito Democratico (Stati Uniti d'America)",
+        "2000",
+        "Virginia",
+        "Partito Repubblicano (Stati Uniti d'America)",
+        "Ufficio del censimento degli Stati Uniti d'America",
+        "Nativi americani",
+        "California"
+      ]
+    },
+    {
+      "count": 82582,
+      "dimension": 2.78,
+      "categories": [
+        "Sportivi afroamericani",
+        "Cestisti figli d'arte",
+        "Membri del Naismith Memorial Basketball Hall of Fame",
+        "Cestisti della Nazionale italiana",
+        "Pro Football Hall of Fame",
+        "Baseball Hall of Fame",
+        "Cestisti serbo-montenegrini",
+        "Cestisti jugoslavi",
+        "Cestiste della Nazionale italiana",
+        "Vincitori di medaglia d'oro olimpica per gli Stati Uniti d'America"
+      ],
+      "page_rank_centers": [
+        "Pallacanestro",
+        "Football americano",
+        "NBA",
+        "Guardia tiratrice",
+        "Centro (pallacanestro)",
+        "Playmaker",
+        "Federazione Internazionale Pallacanestro",
+        "Ala grande",
+        "National Football League",
+        "National Collegiate Athletic Association"
+      ],
+      "random_walk_center": [
+        "Pallacanestro",
+        "Football americano",
+        "NBA",
+        "National Collegiate Athletic Association",
+        "Baseball",
+        "Campionati sudamericani femminili di pallacanestro",
+        "Guardia tiratrice",
+        "Quarterback",
+        "National Football League",
+        "Centro (pallacanestro)"
+      ]
+    },
+    {
+      "count": 75914,
+      "dimension": 2.556,
+      "categories": [
+        "Sportivi afroamericani",
+        "Membri dell'International Swimming Hall of Fame",
+        "Insigniti con il Collare d'oro al merito sportivo",
+        "Casi di doping nell'atletica leggera",
+        "Nazioni ai Giochi della XXXI Olimpiade",
+        "Nazioni ai Giochi della XXXII Olimpiade",
+        "Nazioni ai Giochi della XXXIII Olimpiade",
+        "Nazioni ai Giochi della XXVIII Olimpiade",
+        "Nazioni ai Giochi della XXX Olimpiade",
+        "Nazioni ai Giochi della XXIX Olimpiade"
+      ],
+      "page_rank_centers": [
+        "Giochi olimpici estivi",
+        "Giochi olimpici",
+        "Atletica leggera",
+        "Monaco di Baviera",
+        "Comitato Olimpico Internazionale",
+        "Pechino",
+        "Atene",
+        "Sport",
+        "Seul",
+        "Barcellona"
+      ],
+      "random_walk_center": [
+        "Monaco di Baviera",
+        "Giochi olimpici",
+        "Giochi olimpici estivi",
+        "Seul",
+        "Atene",
+        "Pechino",
+        "Taipei",
+        "Comitato Olimpico Internazionale",
+        "Atletica leggera",
+        "Sport"
+      ]
+    },
+    {
+      "count": 73163,
+      "dimension": 2.463,
+      "categories": [
+        "Asteroidi della fascia principale interna",
+        "Asteroidi della fascia principale centrale",
+        "Asteroidi della fascia principale esterna",
+        "Corpi celesti scoperti nel 2000",
+        "Corpi celesti scoperti nel 1999",
+        "Corpi celesti scoperti nel 1998",
+        "Corpi celesti scoperti nel 1997",
+        "Scopritori di asteroidi",
+        "Numeri interi",
+        "Corpi celesti scoperti nel 2001"
+      ],
+      "page_rank_centers": [
+        "Orbita",
+        "Asteroide",
+        "Unità astronomica",
+        "Perielio",
+        "Eccentricità orbitale",
+        "Anno",
+        "Astronomia amatoriale",
+        "Giorno",
+        "Semiasse maggiore",
+        "Astronomo"
+      ],
+      "random_walk_center": [
+        "Orbita",
+        "Asteroide",
+        "Astronomia amatoriale",
+        "Perielio",
+        "Unità astronomica",
+        "Astronomo",
+        "Anno",
+        "Eccentricità orbitale",
+        "Giorno",
+        "Satellite artificiale"
+      ]
+    },
+    {
+      "count": 59751,
+      "dimension": 2.012,
+      "categories": [
+        "ATP Tour 1998",
+        "Vincitori dell'Australian Open",
+        "ATP Tour 2000",
+        "ATP Tour 1997",
+        "ATP Tour 1999",
+        "ATP Tour 1996",
+        "ATP Tour 2008",
+        "ATP Tour 1994",
+        "ATP Tour 1993",
+        "ATP Tour 1992"
+      ],
+      "page_rank_centers": [
+        "Tennis",
+        "Grande Slam (tennis)",
+        "Open di Francia",
+        "Torneo di Wimbledon",
+        "Australian Open",
+        "ATP Challenger Tour",
+        "US Open (tennis)",
+        "Melbourne",
+        "Coppa Davis",
+        "Brisbane"
+      ],
+      "random_walk_center": [
+        "Brisbane",
+        "Båstad",
+        "Båstad (comune)",
+        "Tennis",
+        "Grande Slam (tennis)",
+        "Torneo di Wimbledon",
+        "Sutton (borgo di Londra)",
+        "Australian Open",
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    {
+      "count": 53610,
+      "dimension": 1.805,
+      "categories": [
+        "Comuni del Passo di Calais",
+        "Comuni dell'Aisne",
+        "Comuni della Somme",
+        "Comuni della Mosella",
+        "Comuni della Senna Marittima",
+        "Comuni della Côte-d'Or",
+        "Comuni dell'Oise",
+        "Comuni della Marna",
+        "Comuni dell'Eure",
+        "Comuni dell'Alta Garonna"
+      ],
+      "page_rank_centers": [
+        "Comuni della Francia",
+        "Dipartimenti della Francia",
+        "Regioni della Francia",
+        "Nuova Aquitania",
+        "Grande Est",
+        "Alvernia-Rodano-Alpi",
+        "Occitania (regione francese)",
+        "Normandia",
+        "Borgogna-Franca Contea",
+        "Alta Francia"
+      ],
+      "random_walk_center": [
+        "Comuni della Francia",
+        "Dipartimenti della Francia",
+        "Regioni della Francia",
+        "Nuova Aquitania",
+        "Grande Est",
+        "Bretagna",
+        "Occitania (regione francese)",
+        "Alvernia-Rodano-Alpi",
+        "Normandia",
+        "Île-de-France"
+      ]
+    },
+    {
+      "count": 48254,
+      "dimension": 1.625,
+      "categories": [
+        "Comuni della Sassonia-Anhalt soppressi",
+        "Frazioni della Sassonia-Anhalt",
+        "Città della Repubblica Ceca",
+        "Comuni del Brandeburgo soppressi",
+        "Comuni della Turingia soppressi",
+        "Comuni dell'Austria soppressi",
+        "Frazioni della Stiria",
+        "Frazioni della Turingia",
+        "Comuni del circondario dell'Eifel-Bitburg-Prüm",
+        "Comuni del circondario del Westerwald"
+      ],
+      "page_rank_centers": [
+        "Germania",
+        "Repubblica Ceca",
+        "Comuni della Repubblica Ceca",
+        "Stati federati della Germania",
+        "Circondari della Germania",
+        "Baviera",
+        "Comuni della Germania",
+        "Comuni della Svizzera",
+        "Comunità amministrative della Germania",
+        "Targhe d'immatricolazione della Germania"
+      ],
+      "random_walk_center": [
+        "Germania",
+        "Repubblica Ceca",
+        "Comuni della Repubblica Ceca",
+        "Stati federati della Germania",
+        "Comuni della Svizzera",
+        "Baviera",
+        "Circondari della Germania",
+        "Comuni della Germania",
+        "Città della Germania",
+        "Baden-Württemberg"
+      ]
+    },
+    {
+      "count": 48000,
+      "dimension": 1.616,
+      "categories": [
+        "Comuni della provincia di Salamanca",
+        "Comuni della provincia di Burgos",
+        "Squadre ciclistiche",
+        "Comuni della provincia di Guadalajara",
+        "Comuni della provincia di Saragozza",
+        "Partecipanti a competizioni ciclistiche",
+        "Stazioni della metropolitana di Madrid",
+        "Ciclismo nel 2023",
+        "Comuni della provincia di Zamora",
+        "Comuni della provincia di Avila"
+      ],
+      "page_rank_centers": [
+        "Comunità autonome della Spagna",
+        "Comuni della Spagna",
+        "Castiglia e León",
+        "Ciclismo su strada",
+        "Catalogna",
+        "Castiglia-La Mancia",
+        "Galizia (Spagna)",
+        "Aragona",
+        "Andalusia",
+        "Vallonia"
+      ],
+      "random_walk_center": [
+        "Comunità autonome della Spagna",
+        "Comuni della Spagna",
+        "Catalogna",
+        "Vallonia",
+        "Castiglia e León",
+        "Castiglia-La Mancia",
+        "Province della Spagna",
+        "Aragona",
+        "Galizia (Spagna)",
+        "Estremadura"
+      ]
+    },
+    {
+      "count": 45125,
+      "dimension": 1.519,
+      "categories": [
+        "Politici della Democrazia Cristiana",
+        "Politici del Partito Comunista Italiano",
+        "Politici del Partito Democratico (Italia)",
+        "Politici del Partito Socialista Italiano",
+        "Sindaci in Italia",
+        "Politici dei Democratici di Sinistra",
+        "Politici del Popolo della Libertà",
+        "Politici del Partito Democratico della Sinistra",
+        "Politici di Forza Italia (1994)",
+        "Deputati della XVII legislatura della Repubblica Italiana"
+      ],
+      "page_rank_centers": [
+        "Camera dei deputati (Italia)",
+        "Senato della Repubblica",
+        "Democrazia Cristiana",
+        "Diritto",
+        "Costituzione della Repubblica Italiana",
+        "Giurisprudenza",
+        "Partito Comunista Italiano",
+        "Ordinamento giuridico",
+        "La Repubblica (quotidiano)",
+        "Legge"
+      ],
+      "random_walk_center": [
+        "Diritto",
+        "Camera dei deputati (Italia)",
+        "Ordinamento giuridico",
+        "Costituzione della Repubblica Italiana",
+        "Legge",
+        "Senato della Repubblica",
+        "Norma giuridica",
+        "Pubblica amministrazione",
+        "Giurisprudenza",
+        "Codice civile (Italia)"
+      ]
+    },
+    {
+      "count": 42633,
+      "dimension": 1.435,
+      "categories": [
+        "Aree urbane della contea di Västra Götaland",
+        "Aree urbane della contea di Scania",
+        "Campionato svizzero maschile di hockey su ghiaccio",
+        "Sciatori figli d'arte",
+        "Campionato italiano maschile di hockey su ghiaccio",
+        "Aree urbane della contea di Halland",
+        "Vincitori della medaglia Holmenkollen",
+        "Membri della Hockey Hall of Fame",
+        "Aree urbane della contea di Stoccolma",
+        "Aree urbane della contea di Kalmar"
+      ],
+      "page_rank_centers": [
+        "Giochi olimpici invernali",
+        "Hockey su ghiaccio",
+        "Coppa del Mondo di sci alpino",
+        "Sci di fondo",
+        "Stazione sciistica",
+        "Aree urbane della Svezia",
+        "Sci alpino",
+        "Sci",
+        "Federazione internazionale sci e snowboard",
+        "Sci nordico"
+      ],
+      "random_walk_center": [
+        "Giochi olimpici invernali",
+        "Hockey su ghiaccio",
+        "Sci di fondo",
+        "Stazione sciistica",
+        "Sci",
+        "Sci alpino",
+        "Coppa del Mondo di sci alpino",
+        "Sci nordico",
+        "Federazione internazionale sci e snowboard",
+        "Contee della Svezia"
+      ]
+    },
+    {
+      "count": 28776,
+      "dimension": 0.969,
+      "categories": [
+        "Opere liriche in lingua italiana",
+        "Compositori classici",
+        "Compositori d'opera",
+        "Compositori barocchi",
+        "Pianisti classici",
+        "Compositori rinascimentali",
+        "Opere liriche basate su opere teatrali",
+        "Musica per pianoforte solo",
+        "Opere liriche basate su opere letterarie",
+        "Opere liriche in lingua francese"
+      ],
+      "page_rank_centers": [
+        "Opera",
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "Richard Wagner",
+        "Orchestra",
+        "Soprano",
+        "Giuseppe Verdi",
+        "Tenore",
+        "Teatro alla Scala"
+      ],
+      "random_walk_center": [
+        "Opera",
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "Richard Wagner",
+        "Orchestra",
+        "Giuseppe Verdi",
+        "Soprano",
+        "Scala diatonica",
+        "Teatro alla Scala"
+      ]
+    },
+    {
+      "count": 21397,
+      "dimension": 0.72,
+      "categories": [
+        "Pallavolo nel 2022",
+        "Federazioni pallavolistiche",
+        "Pallavolo nel 2021",
+        "Pallavolo nel 2023",
+        "Pallavolo nel 2017",
+        "Pallavolo nel 2013",
+        "Pallavolo nel 2016",
+        "Pallavolo nel 2018",
+        "Pallavolo nel 2014",
+        "Pallavolo nel 2019"
+      ],
+      "page_rank_centers": [
+        "Pallavolo",
+        "Fédération Internationale de Volleyball",
+        "Confédération Européenne de Volleyball",
+        "Most Valuable Player",
+        "Montreux",
+        "Hockey su pista",
+        "Centrale (pallavolo)",
+        "Libero (pallavolo)",
+        "Schiacciatore-laterale",
+        "Federazione Italiana Pallavolo"
+      ],
+      "random_walk_center": [
+        "Montreux",
+        "Pallavolo",
+        "Fédération Internationale de Volleyball",
+        "Confédération Européenne de Volleyball",
+        "Most Valuable Player",
+        "Federazione Italiana Pallavolo",
+        "Hockey su pista",
+        "Arena (edificio)",
+        "Libero (pallavolo)",
+        "Centrale (pallavolo)"
+      ]
+    },
+    {
+      "count": 18324,
+      "dimension": 0.617,
+      "categories": [
+        "Piloti della classe 250",
+        "Piloti della classe 125",
+        "Piloti del mondiale Superbike",
+        "Piloti della classe 500",
+        "Piloti del mondiale Supersport",
+        "Circuiti motoristici per nome",
+        "Piloti della Moto2",
+        "Piloti automobilistici morti durante l'attività",
+        "Piloti della classe 350",
+        "Piloti della MotoGP"
+      ],
+      "page_rank_centers": [
+        "Formula 1",
+        "Motomondiale",
+        "Automobilismo",
+        "Federazione Internazionale dell'Automobile",
+        "Scuderia Ferrari",
+        "Motociclismo",
+        "24 Ore di Le Mans",
+        "Rally",
+        "McLaren",
+        "Honda"
+      ],
+      "random_walk_center": [
+        "Formula 1",
+        "Motomondiale",
+        "Automobilismo",
+        "Federazione Internazionale dell'Automobile",
+        "Scuderia Ferrari",
+        "24 Ore di Le Mans",
+        "McLaren",
+        "Motociclismo",
+        "Rally",
+        "Honda"
+      ]
+    },
+    {
+      "count": 12075,
+      "dimension": 0.407,
+      "categories": [
+        "Rugbisti a 15 campioni del mondo",
+        "Membri della World Rugby Hall of Fame",
+        "Tour di rugby a 15 nelle Isole britanniche",
+        "Membri dell'International Rugby Hall of Fame",
+        "Tour di rugby a 15 in Argentina",
+        "Rugbisti a 15 gallesi",
+        "Autorità territoriali della Nuova Zelanda",
+        "Insigniti con la medaglia al valore atletico",
+        "Federazioni di rugby a 15 europee",
+        "Tour della Nazionale di rugby a 15 della Nuova Zelanda"
+      ],
+      "page_rank_centers": [
+        "Rugby a 15",
+        "World Rugby",
+        "Cricket",
+        "Rugby a 13",
+        "Nazionale maschile di rugby a 15 della Nuova Zelanda",
+        "Super Rugby",
+        "Rugby",
+        "Coppa del Mondo di rugby",
+        "Sei Nazioni",
+        "Regioni della Nuova Zelanda"
+      ],
+      "random_walk_center": [
+        "Rugby a 15",
+        "Cricket",
+        "Regioni della Nuova Zelanda",
+        "Isola del Nord",
+        "World Rugby",
+        "Suva",
+        "Lami (Figi)",
+        "Rugby a 13",
+        "Super Rugby",
+        "Rugby"
+      ]
+    },
+    {
+      "count": 7347,
+      "dimension": 0.247,
+      "categories": [
+        "Comuni del distretto di Cəlilabad",
+        "Comuni del distretto di Bərdə",
+        "Comuni del distretto di Masallı",
+        "Comuni del distretto di Quba",
+        "Comuni del distretto di Lerik",
+        "Comuni del distretto di Sabirabad",
+        "Comuni del distretto di Xaçmaz",
+        "Comuni del distretto di İsmayıllı",
+        "Comuni del distretto di Qusar",
+        "Comuni del distretto di Lənkəran"
+      ],
+      "page_rank_centers": [
+        "Azerbaigian",
+        "Distretti dell'Azerbaigian",
+        "GEOnet Names Server",
+        "Città dell'Azerbaigian",
+        "Repubblica dell'Artsakh",
+        "Prima guerra del Nagorno Karabakh",
+        "Nagorno Karabakh",
+        "Seconda guerra del Nagorno Karabakh",
+        "Step'anakert",
+        "Distretto di Qusar"
+      ],
+      "random_walk_center": [
+        "Azerbaigian",
+        "Repubblica dell'Artsakh",
+        "Distretti dell'Azerbaigian",
+        "Prima guerra del Nagorno Karabakh",
+        "Città dell'Azerbaigian",
+        "Nagorno Karabakh",
+        "Step'anakert",
+        "Seconda guerra del Nagorno Karabakh",
+        "GEOnet Names Server",
+        "Oblast' autonoma del Nagorno Karabakh"
+      ]
+    },
+    {
+      "count": 5149,
+      "dimension": 0.173,
+      "categories": [
+        "Squadre nazionali europee di calcio a 5",
+        "Calcio a 5 nel 2008",
+        "Calcio a 5 nel 2007",
+        "Calcio a 5 nel 2004",
+        "Calcio a 5 nel 2019",
+        "Calcio a 5 nel 2006",
+        "Campionato italiano di calcio a 5 Serie A",
+        "Calcio a 5 nel 2022",
+        "Calcio a 5 nel 2018",
+        "Calcio a 5 nel 2020"
+      ],
+      "page_rank_centers": [
+        "Calcio a 5",
+        "Intermedio (calcio a 5)",
+        "Pivot (calcio a 5)",
+        "Difensore (calcio a 5)",
+        "FIFA Futsal World Championship 1996",
+        "FIFA Futsal World Championship 2000",
+        "FIFA Futsal World Cup",
+        "Divisione Calcio a 5",
+        "FIFA Futsal World Championship 1992",
+        "UEFA Futsal Championship"
+      ],
+      "random_walk_center": [
+        "Calcio a 5",
+        "Intermedio (calcio a 5)",
+        "Pivot (calcio a 5)",
+        "FIFA Futsal World Cup",
+        "Difensore (calcio a 5)",
+        "Divisione Calcio a 5",
+        "FIFA Futsal World Championship 2000",
+        "FIFA Futsal World Championship 1996",
+        "UEFA Futsal Championship",
+        "Confederação Brasileira de Futebol de Salão"
+      ]
+    },
+    {
+      "count": 703,
+      "dimension": 0.024,
+      "categories": [
+        "Montagne delle Fær Øer",
+        "Montagne sotto i mille metri",
+        "Comuni delle Fær Øer",
+        "Isole delle Fær Øer",
+        "Località delle Fær Øer",
+        "Regioni delle Fær Øer",
+        "Comuni delle Fær Øer soppressi",
+        "Isole disabitate delle Fær Øer",
+        "Stretti delle Fær Øer",
+        "Fiordi della Danimarca"
+      ],
+      "page_rank_centers": [
+        "Fær Øer",
+        "Eysturoy",
+        "Suðuroy",
+        "Montagne delle Fær Øer",
+        "Streymoy",
+        "Vágar",
+        "Borðoy",
+        "Comuni delle Fær Øer",
+        "Sandoy",
+        "Lítla Dímun"
+      ],
+      "random_walk_center": [
+        "Fær Øer",
+        "Eysturoy",
+        "Suðuroy",
+        "Streymoy",
+        "Montagne delle Fær Øer",
+        "Borðoy",
+        "Vágar",
+        "Comuni delle Fær Øer",
+        "Lítla Dímun",
+        "Sandoy"
+      ]
+    },
+    {
+      "count": 492,
+      "dimension": 0.017,
+      "categories": [
+        "Campionato mondiale di snooker",
+        "Competizioni sportive a Sheffield",
+        "Snooker nel 2019",
+        "Stagioni di snooker",
+        "Competizioni sportive a Milton Keynes",
+        "Snooker nel 2021",
+        "Snooker nel 2020",
+        "Competizioni sportive a Londra",
+        "Challenge Tour 2019-2020",
+        "Snooker nel 2022"
+      ],
+      "page_rank_centers": [
+        "Snooker",
+        "Statistiche di snooker",
+        "Campionato mondiale di snooker",
+        "Stagione 2019-2020 di snooker",
+        "Stagione 2018-2019 di snooker",
+        "Maximum break",
+        "Milton Keynes",
+        "Stagione 2020-2021 di snooker",
+        "John Higgins (giocatore di snooker)",
+        "World Professional Billiards and Snooker Association"
+      ],
+      "random_walk_center": [
+        "Snooker",
+        "Milton Keynes",
+        "Statistiche di snooker",
+        "Stagione 2019-2020 di snooker",
+        "Campionato mondiale di snooker",
+        "Llandudno",
+        "Funivia di Llandudno",
+        "Stagione 2018-2019 di snooker",
+        "Maximum break",
+        "Stagione 2020-2021 di snooker"
+      ]
+    },
+    {
+      "count": 395,
+      "dimension": 0.013,
+      "categories": [
+        "Attori televisivi thailandesi",
+        "Serie televisive ambientate in Thailandia",
+        "Fiction televisive con tematiche LGBT",
+        "Serie televisive di GMMTV",
+        "Serie televisive ambientate a Bangkok",
+        "Serie televisive basate su opere letterarie",
+        "Tematiche LGBT nelle webserie",
+        "Film drammatici",
+        "Club Friday",
+        "Film a tematica gay"
+      ],
+      "page_rank_centers": [
+        "GMM 25",
+        "GMMTV",
+        "Line TV",
+        "GMM Grammy",
+        "One31",
+        "U-Prince Series",
+        "Love Songs Love Series",
+        "Make It Right: The Series - Rak ok doen",
+        "Love Sick: The Series - Rak wun wai run saep",
+        "Channel 9 MCOT HD"
+      ],
+      "random_walk_center": [
+        "GMM 25",
+        "GMMTV",
+        "Line TV",
+        "One31",
+        "GMM Grammy",
+        "U-Prince Series",
+        "Love Songs Love Series",
+        "Little Big Dream - Khwam fan an sungsut",
+        "Love Sick: The Series - Rak wun wai run saep",
+        "Make It Right: The Series - Rak ok doen"
+      ]
+    },
+    {
+      "count": 67,
+      "dimension": 0.002,
+      "categories": [
+        "Vini DOC e DOCG prodotti con uva Schiava grigia",
+        "Vini DOC e DOCG prodotti con uva Cabernet franc",
+        "Vini DOC e DOCG prodotti con uva Schiava grossa",
+        "Vini DOC e DOCG prodotti con uva Merlot",
+        "Vini DOC e DOCG prodotti con uva Moscato Giallo",
+        "Vini DOC e DOCG prodotti con uva Pinot bianco",
+        "Vini DOC e DOCG prodotti con uva Moscato Rosa",
+        "Vini DOC e DOCG prodotti con uva Riesling",
+        "Vini DOC della provincia di Trento",
+        "Vini DOC e DOCG prodotti con uva Rebo"
+      ],
+      "page_rank_centers": [
+        "Trentino (vino)",
+        "Trentino Cabernet franc",
+        "Trentino Cabernet franc riserva",
+        "Trentino Cabernet riserva",
+        "Trentino Cabernet Sauvignon riserva",
+        "Trentino Lagrein riserva",
+        "Trentino Marzemino riserva",
+        "Trentino Merlot riserva",
+        "Trentino Pinot nero riserva",
+        "Trentino Traminer aromatico"
+      ],
+      "random_walk_center": [
+        "Trentino (vino)",
+        "Trentino Cabernet Sauvignon riserva",
+        "Trentino Cabernet franc riserva",
+        "Trentino Muller-Thurgau",
+        "Trentino Pinot grigio vendemmia tardiva",
+        "Trentino Pinot grigio",
+        "Trentino Moscato Rosa vendemmia tardiva",
+        "Trentino Pinot bianco vendemmia tardiva",
+        "Trentino Moscato Rosa",
+        "Trentino Sorni rosso"
+      ]
+    }
+  ]
+}

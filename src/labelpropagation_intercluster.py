@@ -39,14 +39,14 @@ def inter_cluster(graph, subgraph1, subgraph2):
 
 if __name__ == "__main__":
   # Load graph
-  graph = ig.Graph.Read_Pickle("src\\files\\graph.pkl")
+  graph = ig.Graph.Read_Pickle(os.path.join("files", "graph.pkl"))
 
   # Load all saved subgraphs
   subgraphs = []
   i = 0
   while i != 2: # Test for only 2 subgraphs
     try:
-      subgraphs.append(ig.Graph.Read_Pickle(f"src\\files\\subgraph{i}.pkl"))
+      subgraphs.append(ig.Graph.Read_Pickle(os.path.join("files", f"subgraph{i}.pkl")))
       i += 1
     except FileNotFoundError:
       break
