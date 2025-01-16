@@ -8,15 +8,20 @@
     "mean_modularity": 0.6560755519898979,
     "mean_soergel": 0.9929220057800839,
     "count": 57695,
-    "mean": 51.47926163445706,
-    "median": 1.0,
-    "iqr": 0.0,
-    "giant_component": 347104
+    "mean": 97064.03333333334,
+    "std": 100783.51073778003,
+    "median": 56680.5,
+    "iqr": 133569.0,
+    "q25": 19092.25,
+    "q50": 56680.5,
+    "q75": 152661.25,
+    "giant_component": 347104,
+    "gini": 0.5492303190917611
   },
   "communities": [
     {
       "count": 347104,
-      "dimension": 11.687,
+      "dimension": 0.11686625617488458,
       "categories": [
         "Santi per nome",
         "Sedi titolari cattoliche",
@@ -44,19 +49,19 @@
       "random_walk_center": [
         "Roma",
         "Chiesa cattolica",
-        "Spagna",
         "Lingua latina",
+        "Spagna",
         "Milano",
         "Firenze",
-        "Medioevo",
-        "XIX secolo",
+        "Venezia",
         "Papa",
-        "Venezia"
+        "Medioevo",
+        "XIX secolo"
       ]
     },
     {
       "count": 326009,
-      "dimension": 10.976,
+      "dimension": 0.10976379214678583,
       "categories": [
         "Medaglie d'oro al valor militare",
         "Medaglie d'argento al valor militare",
@@ -84,19 +89,19 @@
       "random_walk_center": [
         "Seconda guerra mondiale",
         "Francia",
-        "Cina",
-        "Prima guerra mondiale",
         "Russia",
+        "Prima guerra mondiale",
+        "Cina",
         "Unione Sovietica",
         "Economia",
+        "Unione europea",
         "Metro",
-        "Stato",
-        "Unione europea"
+        "Stato"
       ]
     },
     {
       "count": 283026,
-      "dimension": 9.529,
+      "dimension": 0.09529186935371786,
       "categories": [
         "Film drammatici",
         "Cortometraggi drammatici",
@@ -127,16 +132,16 @@
         "Lingua inglese",
         "Lingua italiana",
         "Cinema",
-        "Cortometraggio",
-        "Televisione",
         "Fiction televisiva",
-        "William Shakespeare",
-        "Teatro"
+        "Televisione",
+        "Teatro",
+        "Cortometraggio",
+        "William Shakespeare"
       ]
     },
     {
       "count": 240986,
-      "dimension": 8.114,
+      "dimension": 0.08113744471559169,
       "categories": [
         "Calciatori inglesi",
         "Calciatori scozzesi",
@@ -166,17 +171,17 @@
         "Centrocampista",
         "La Gazzetta dello Sport",
         "Allenatore",
-        "Attaccante",
-        "FIFA",
-        "Squadra (sport)",
         "UEFA",
+        "Attaccante",
+        "Squadra (sport)",
         "Squadra di calcio",
-        "Gol"
+        "FIFA",
+        "Difensore"
       ]
     },
     {
       "count": 236742,
-      "dimension": 7.971,
+      "dimension": 0.07970853467362671,
       "categories": [
         "Taxa classificati da Linneo",
         "Fauna africana",
@@ -206,17 +211,17 @@
         "Animalia",
         "Specie",
         "Plantae",
-        "Famiglia (tassonomia)",
         "Tassonomia",
+        "Famiglia (tassonomia)",
         "Chordata",
-        "Aves",
-        "Brasile",
-        "Clado"
+        "Botanica",
+        "Mammalia",
+        "Brasile"
       ]
     },
     {
       "count": 207315,
-      "dimension": 6.98,
+      "dimension": 0.0698007741163922,
       "categories": [
         "Vincitori di Grammy",
         "Album al numero uno in Italia",
@@ -244,19 +249,19 @@
       "random_walk_center": [
         "Regno Unito",
         "New York",
+        "Chitarra",
+        "Svizzera",
         "Canto",
         "Jazz",
         "Batteria (strumento musicale)",
         "Musica",
-        "Chitarra",
         "Los Angeles",
-        "Svezia",
-        "Basso elettrico"
+        "Strumento musicale"
       ]
     },
     {
       "count": 166138,
-      "dimension": 5.594,
+      "dimension": 0.055936912476903106,
       "categories": [
         "Formule molecolari",
         "Oggetti del catalogo NGC",
@@ -283,20 +288,20 @@
       ],
       "random_walk_center": [
         "Matematica",
-        "Fisica",
         "Numero reale",
+        "Fisica",
+        "Funzione (matematica)",
         "Insieme",
         "Acqua",
-        "Funzione (matematica)",
+        "Numero complesso",
+        "Geometria",
         "Chimica",
-        "Atomo",
-        "Elettrone",
-        "Geometria"
+        "Numero intero"
       ]
     },
     {
       "count": 157928,
-      "dimension": 5.317,
+      "dimension": 0.05317269206113203,
       "categories": [
         "Centri abitati del Tamil Nadu",
         "Centri abitati dell'Uttar Pradesh",
@@ -324,19 +329,19 @@
       "random_walk_center": [
         "India",
         "Lingua greca",
-        "Filosofia",
-        "Impero romano",
-        "Islam",
-        "Cristianesimo",
         "Lingua greca antica",
         "Aristotele",
-        "Linguistica",
-        "Egitto"
+        "Cristianesimo",
+        "Lingua araba",
+        "Filosofia",
+        "Console (storia romana)",
+        "Impero romano",
+        "Grecia"
       ]
     },
     {
       "count": 136861,
-      "dimension": 4.608,
+      "dimension": 0.04607965533773992,
       "categories": [
         "Liste di persone per nome",
         "Liste di nati nel XX secolo",
@@ -367,16 +372,16 @@
         "Parigi",
         "Scozia",
         "Galles",
-        "Abilitazione",
-        "Lingua irlandese",
         "Contee dell'Inghilterra",
-        "China Film Performance Art Academy",
-        "Irlanda del Nord"
+        "Lingua irlandese",
+        "Partito Laburista (Regno Unito)",
+        "Enrico VIII d'Inghilterra",
+        "Camera dei comuni (Regno Unito)"
       ]
     },
     {
       "count": 100021,
-      "dimension": 3.368,
+      "dimension": 0.03367601585942003,
       "categories": [
         "Serie anime basate su manga",
         "Stazioni della JR East",
@@ -406,17 +411,17 @@
         "Informatica",
         "Titolo di città in Giappone",
         "Computer",
-        "Telecomunicazione",
         "Software",
-        "Sistema operativo",
         "Elettronica",
-        "Internet",
-        "Informazione"
+        "Telecomunicazione",
+        "Sistema operativo",
+        "Lingua giapponese",
+        "Internet"
       ]
     },
     {
       "count": 86034,
-      "dimension": 2.897,
+      "dimension": 0.02896674046899494,
       "categories": [
         "Politici del Partito Democratico (Stati Uniti d'America)",
         "Politici del Partito Repubblicano (Stati Uniti d'America)",
@@ -446,17 +451,17 @@
         "Canada",
         "Comuni degli Stati Uniti d'America",
         "Partito Democratico (Stati Uniti d'America)",
-        "2000",
-        "Virginia",
-        "Partito Repubblicano (Stati Uniti d'America)",
-        "Ufficio del censimento degli Stati Uniti d'America",
         "Nativi americani",
-        "California"
+        "Ufficio del censimento degli Stati Uniti d'America",
+        "Partito Repubblicano (Stati Uniti d'America)",
+        "2000",
+        "Stati federati degli Stati Uniti d'America",
+        "Pennsylvania"
       ]
     },
     {
       "count": 82582,
-      "dimension": 2.78,
+      "dimension": 0.027804488474446616,
       "categories": [
         "Sportivi afroamericani",
         "Cestisti figli d'arte",
@@ -483,20 +488,20 @@
       ],
       "random_walk_center": [
         "Pallacanestro",
-        "Football americano",
         "NBA",
+        "Football americano",
         "National Collegiate Athletic Association",
         "Baseball",
-        "Campionati sudamericani femminili di pallacanestro",
         "Guardia tiratrice",
-        "Quarterback",
         "National Football League",
-        "Centro (pallacanestro)"
+        "Federazione Internazionale Pallacanestro",
+        "Centro (pallacanestro)",
+        "Ala grande"
       ]
     },
     {
       "count": 75914,
-      "dimension": 2.556,
+      "dimension": 0.02555944319644887,
       "categories": [
         "Sportivi afroamericani",
         "Membri dell'International Swimming Hall of Fame",
@@ -522,21 +527,21 @@
         "Barcellona"
       ],
       "random_walk_center": [
-        "Monaco di Baviera",
         "Giochi olimpici",
+        "Monaco di Baviera",
+        "Taipei",
         "Giochi olimpici estivi",
         "Seul",
-        "Atene",
-        "Pechino",
-        "Taipei",
-        "Comitato Olimpico Internazionale",
         "Atletica leggera",
-        "Sport"
+        "Comitato Olimpico Internazionale",
+        "Sport",
+        "Pechino",
+        "Atene"
       ]
     },
     {
       "count": 73163,
-      "dimension": 2.463,
+      "dimension": 0.024633210509020585,
       "categories": [
         "Asteroidi della fascia principale interna",
         "Asteroidi della fascia principale centrale",
@@ -567,16 +572,16 @@
         "Astronomia amatoriale",
         "Perielio",
         "Unità astronomica",
-        "Astronomo",
         "Anno",
         "Eccentricità orbitale",
+        "Astronomo",
         "Giorno",
         "Satellite artificiale"
       ]
     },
     {
       "count": 59751,
-      "dimension": 2.012,
+      "dimension": 0.02011753155453561,
       "categories": [
         "ATP Tour 1998",
         "Vincitori dell'Australian Open",
@@ -603,20 +608,20 @@
       ],
       "random_walk_center": [
         "Brisbane",
+        "Perth",
         "Båstad",
         "Båstad (comune)",
         "Tennis",
         "Grande Slam (tennis)",
         "Torneo di Wimbledon",
-        "Sutton (borgo di Londra)",
         "Australian Open",
-        "Melbourne",
-        "Perth"
+        "Open di Francia",
+        "Hamilton (Bermuda)"
       ]
     },
     {
       "count": 53610,
-      "dimension": 1.805,
+      "dimension": 0.018049921618695154,
       "categories": [
         "Comuni del Passo di Calais",
         "Comuni dell'Aisne",
@@ -648,15 +653,15 @@
         "Nuova Aquitania",
         "Grande Est",
         "Bretagna",
+        "Normandia",
         "Occitania (regione francese)",
         "Alvernia-Rodano-Alpi",
-        "Normandia",
         "Île-de-France"
       ]
     },
     {
       "count": 48254,
-      "dimension": 1.625,
+      "dimension": 0.01624661290409468,
       "categories": [
         "Comuni della Sassonia-Anhalt soppressi",
         "Frazioni della Sassonia-Anhalt",
@@ -687,16 +692,16 @@
         "Comuni della Repubblica Ceca",
         "Stati federati della Germania",
         "Comuni della Svizzera",
-        "Baviera",
         "Circondari della Germania",
+        "Baviera",
         "Comuni della Germania",
-        "Città della Germania",
+        "Patriziato (Svizzera)",
         "Baden-Württemberg"
       ]
     },
     {
       "count": 48000,
-      "dimension": 1.616,
+      "dimension": 0.01616109378282722,
       "categories": [
         "Comuni della provincia di Salamanca",
         "Comuni della provincia di Burgos",
@@ -724,19 +729,19 @@
       "random_walk_center": [
         "Comunità autonome della Spagna",
         "Comuni della Spagna",
-        "Catalogna",
         "Vallonia",
-        "Castiglia e León",
-        "Castiglia-La Mancia",
+        "Catalogna",
         "Province della Spagna",
-        "Aragona",
-        "Galizia (Spagna)",
-        "Estremadura"
+        "Castiglia-La Mancia",
+        "Comunità Valenciana",
+        "Andalusia",
+        "Castiglia e León",
+        "Galizia (Spagna)"
       ]
     },
     {
       "count": 45125,
-      "dimension": 1.519,
+      "dimension": 0.015193111603126632,
       "categories": [
         "Politici della Democrazia Cristiana",
         "Politici del Partito Comunista Italiano",
@@ -763,20 +768,20 @@
       ],
       "random_walk_center": [
         "Diritto",
-        "Camera dei deputati (Italia)",
         "Ordinamento giuridico",
+        "Camera dei deputati (Italia)",
         "Costituzione della Repubblica Italiana",
         "Legge",
         "Senato della Repubblica",
-        "Norma giuridica",
         "Pubblica amministrazione",
         "Giurisprudenza",
-        "Codice civile (Italia)"
+        "Norma giuridica",
+        "Soggetto di diritto"
       ]
     },
     {
       "count": 42633,
-      "dimension": 1.435,
+      "dimension": 0.014354081484234853,
       "categories": [
         "Aree urbane della contea di Västra Götaland",
         "Aree urbane della contea di Scania",
@@ -803,20 +808,20 @@
       ],
       "random_walk_center": [
         "Giochi olimpici invernali",
-        "Hockey su ghiaccio",
         "Sci di fondo",
+        "Hockey su ghiaccio",
         "Stazione sciistica",
-        "Sci",
         "Sci alpino",
         "Coppa del Mondo di sci alpino",
-        "Sci nordico",
+        "Sci",
         "Federazione internazionale sci e snowboard",
-        "Contee della Svezia"
+        "Salto con gli sci",
+        "Sci nordico"
       ]
     },
     {
       "count": 28776,
-      "dimension": 0.969,
+      "dimension": 0.00968857572280492,
       "categories": [
         "Opere liriche in lingua italiana",
         "Compositori classici",
@@ -842,21 +847,21 @@
         "Teatro alla Scala"
       ],
       "random_walk_center": [
-        "Opera",
         "Wolfgang Amadeus Mozart",
+        "Opera",
         "Johann Sebastian Bach",
-        "Ludwig van Beethoven",
         "Richard Wagner",
+        "Ludwig van Beethoven",
         "Orchestra",
-        "Giuseppe Verdi",
         "Soprano",
-        "Scala diatonica",
+        "Giuseppe Verdi",
+        "Nota (musica)",
         "Teatro alla Scala"
       ]
     },
     {
       "count": 21397,
-      "dimension": 0.72,
+      "dimension": 0.0072041442431490426,
       "categories": [
         "Pallavolo nel 2022",
         "Federazioni pallavolistiche",
@@ -888,15 +893,15 @@
         "Confédération Européenne de Volleyball",
         "Most Valuable Player",
         "Federazione Italiana Pallavolo",
-        "Hockey su pista",
+        "World Skate",
+        "Nazionali maschili di pallavolo europee",
         "Arena (edificio)",
-        "Libero (pallavolo)",
-        "Centrale (pallavolo)"
+        "Amstetten"
       ]
     },
     {
       "count": 18324,
-      "dimension": 0.617,
+      "dimension": 0.006169497551594292,
       "categories": [
         "Piloti della classe 250",
         "Piloti della classe 125",
@@ -925,18 +930,18 @@
         "Formula 1",
         "Motomondiale",
         "Automobilismo",
-        "Federazione Internazionale dell'Automobile",
         "Scuderia Ferrari",
-        "24 Ore di Le Mans",
+        "Federazione Internazionale dell'Automobile",
+        "Ford",
         "McLaren",
+        "Campionato del mondo rally",
         "Motociclismo",
-        "Rally",
-        "Honda"
+        "Rally"
       ]
     },
     {
       "count": 12075,
-      "dimension": 0.407,
+      "dimension": 0.004065525154742473,
       "categories": [
         "Rugbisti a 15 campioni del mondo",
         "Membri della World Rugby Hall of Fame",
@@ -963,20 +968,20 @@
       ],
       "random_walk_center": [
         "Rugby a 15",
-        "Cricket",
-        "Regioni della Nuova Zelanda",
         "Isola del Nord",
         "World Rugby",
+        "Regioni della Nuova Zelanda",
+        "Cricket",
+        "Rugby a 13",
+        "Rugby",
         "Suva",
         "Lami (Figi)",
-        "Rugby a 13",
-        "Super Rugby",
-        "Rugby"
+        "Nazionale maschile di rugby a 15 della Nuova Zelanda"
       ]
     },
     {
       "count": 7347,
-      "dimension": 0.247,
+      "dimension": 0.0024736574171339916,
       "categories": [
         "Comuni del distretto di Cəlilabad",
         "Comuni del distretto di Bərdə",
@@ -1010,13 +1015,13 @@
         "Nagorno Karabakh",
         "Step'anakert",
         "Seconda guerra del Nagorno Karabakh",
-        "GEOnet Names Server",
+        "Şuşa",
         "Oblast' autonoma del Nagorno Karabakh"
       ]
     },
     {
       "count": 5149,
-      "dimension": 0.173,
+      "dimension": 0.0017336139976620285,
       "categories": [
         "Squadre nazionali europee di calcio a 5",
         "Calcio a 5 nel 2008",
@@ -1045,18 +1050,18 @@
         "Calcio a 5",
         "Intermedio (calcio a 5)",
         "Pivot (calcio a 5)",
-        "FIFA Futsal World Cup",
         "Difensore (calcio a 5)",
         "Divisione Calcio a 5",
+        "FIFA Futsal World Cup",
         "FIFA Futsal World Championship 2000",
         "FIFA Futsal World Championship 1996",
-        "UEFA Futsal Championship",
-        "Confederação Brasileira de Futebol de Salão"
+        "Confederação Brasileira de Futebol de Salão",
+        "UEFA Futsal Championship"
       ]
     },
     {
       "count": 703,
-      "dimension": 0.024,
+      "dimension": 0.000236692686027657,
       "categories": [
         "Montagne delle Fær Øer",
         "Montagne sotto i mille metri",
@@ -1083,10 +1088,10 @@
       ],
       "random_walk_center": [
         "Fær Øer",
-        "Eysturoy",
         "Suðuroy",
-        "Streymoy",
+        "Eysturoy",
         "Montagne delle Fær Øer",
+        "Streymoy",
         "Borðoy",
         "Vágar",
         "Comuni delle Fær Øer",
@@ -1096,7 +1101,7 @@
     },
     {
       "count": 492,
-      "dimension": 0.017,
+      "dimension": 0.00016565121127397903,
       "categories": [
         "Campionato mondiale di snooker",
         "Competizioni sportive a Sheffield",
@@ -1122,21 +1127,21 @@
         "World Professional Billiards and Snooker Association"
       ],
       "random_walk_center": [
-        "Snooker",
         "Milton Keynes",
+        "Snooker",
+        "Campionato mondiale di snooker",
         "Statistiche di snooker",
         "Stagione 2019-2020 di snooker",
-        "Campionato mondiale di snooker",
+        "Stagione 2018-2019 di snooker",
         "Llandudno",
         "Funivia di Llandudno",
-        "Stagione 2018-2019 di snooker",
         "Maximum break",
-        "Stagione 2020-2021 di snooker"
+        "Wolverton"
       ]
     },
     {
       "count": 395,
-      "dimension": 0.013,
+      "dimension": 0.00013299233425451568,
       "categories": [
         "Attori televisivi thailandesi",
         "Serie televisive ambientate in Thailandia",
@@ -1170,13 +1175,13 @@
         "U-Prince Series",
         "Love Songs Love Series",
         "Little Big Dream - Khwam fan an sungsut",
-        "Love Sick: The Series - Rak wun wai run saep",
-        "Make It Right: The Series - Rak ok doen"
+        "Kiss Me Again - Chup hai dai tha nai nae ching",
+        "Run phi Secret Love"
       ]
     },
     {
       "count": 67,
-      "dimension": 0.002,
+      "dimension": 2.255819340519633e-05,
       "categories": [
         "Vini DOC e DOCG prodotti con uva Schiava grigia",
         "Vini DOC e DOCG prodotti con uva Cabernet franc",
@@ -1203,15 +1208,15 @@
       ],
       "random_walk_center": [
         "Trentino (vino)",
-        "Trentino Cabernet Sauvignon riserva",
-        "Trentino Cabernet franc riserva",
-        "Trentino Muller-Thurgau",
-        "Trentino Pinot grigio vendemmia tardiva",
-        "Trentino Pinot grigio",
-        "Trentino Moscato Rosa vendemmia tardiva",
-        "Trentino Pinot bianco vendemmia tardiva",
-        "Trentino Moscato Rosa",
-        "Trentino Sorni rosso"
+        "Trentino Cabernet Riserva",
+        "Trentino Pinot nero",
+        "Sorni Bianco",
+        "Trentino Cabernet Sauvignon",
+        "Trentino rosato",
+        "Trentino Riesling vendemmia tardiva",
+        "Sorni Rosso Scelto",
+        "Trentino Traminer Aromatico",
+        "Trentino Sauvignon"
       ]
     }
   ]

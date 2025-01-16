@@ -8,15 +8,20 @@
     "mean_modularity": 0.6270031350504448,
     "mean_soergel": 0.9954597861431242,
     "count": 57702,
-    "mean": 51.47301653322242,
-    "median": 1.0,
-    "iqr": 0.0,
-    "giant_component": 479273
+    "mean": 97070.06666666667,
+    "std": 132225.20984162673,
+    "median": 31902.5,
+    "iqr": 146292.25,
+    "q25": 1489.25,
+    "q50": 31902.5,
+    "q75": 147781.5,
+    "giant_component": 479273,
+    "gini": 0.6738402935977746
   },
   "communities": [
     {
       "count": 479273,
-      "dimension": 16.137,
+      "dimension": 0.16136616459535313,
       "categories": [
         "Santi per nome",
         "Sedi titolari cattoliche",
@@ -48,15 +53,15 @@
         "Lingua latina",
         "Parigi",
         "Seconda guerra mondiale",
+        "Medioevo",
         "Spagna",
         "Milano",
-        "Firenze",
-        "XX secolo"
+        "XIX secolo"
       ]
     },
     {
       "count": 379961,
-      "dimension": 12.793,
+      "dimension": 0.12792886155868363,
       "categories": [
         "Film drammatici",
         "Cortometraggi drammatici",
@@ -87,16 +92,16 @@
         "Lingua inglese",
         "Giappone",
         "Film",
-        "Lingua italiana",
         "New York",
+        "Lingua italiana",
         "Cinema",
-        "California",
-        "Televisione"
+        "Fiction televisiva",
+        "Los Angeles"
       ]
     },
     {
       "count": 342332,
-      "dimension": 11.526,
+      "dimension": 0.1152595741013085,
       "categories": [
         "Formule molecolari",
         "Taxa classificati da Linneo",
@@ -123,20 +128,20 @@
       ],
       "random_walk_center": [
         "Eukaryota",
-        "Animalia",
-        "Acqua",
         "Suffisso",
         "Prefisso",
-        "Ossigeno",
-        "Molecola",
-        "Specie",
+        "Acqua",
+        "Animalia",
+        "Edagricole",
         "Temperatura",
-        "Atomo"
+        "Atomo",
+        "Famiglia (tassonomia)",
+        "Plantae"
       ]
     },
     {
       "count": 280025,
-      "dimension": 9.428,
+      "dimension": 0.09428146430283735,
       "categories": [
         "Liste di persone per nome",
         "Comuni del Texas",
@@ -167,16 +172,16 @@
         "Londra",
         "Città",
         "Scozia",
+        "Stati federati della Germania",
         "Ufficio del censimento degli Stati Uniti d'America",
         "Galles",
-        "Stati federati della Germania",
         "Giochi olimpici",
-        "New York (stato)"
+        "Partito Conservatore (Regno Unito)"
       ]
     },
     {
       "count": 279496,
-      "dimension": 9.41,
+      "dimension": 0.09410335558177244,
       "categories": [
         "Politici della Democrazia Cristiana",
         "Politici del Partito Comunista Italiano",
@@ -203,20 +208,20 @@
       ],
       "random_walk_center": [
         "Locuzione",
-        "India",
-        "Lingua araba",
-        "Russia",
-        "Islam",
         "Stato",
-        "Unione Sovietica",
+        "India",
         "Economia",
-        "Diritto",
-        "Turchia"
+        "Russia",
+        "Unione Sovietica",
+        "Unione europea",
+        "Turchia",
+        "Islam",
+        "Lingua araba"
       ]
     },
     {
       "count": 248957,
-      "dimension": 8.382,
+      "dimension": 0.08382119635190242,
       "categories": [
         "Calciatori inglesi",
         "Calciatori scozzesi",
@@ -243,20 +248,20 @@
       ],
       "random_walk_center": [
         "Calcio (sport)",
-        "La Gazzetta dello Sport",
         "Centrocampista",
+        "La Gazzetta dello Sport",
         "Allenatore",
-        "Sport di squadra",
-        "Attaccante",
         "UEFA",
+        "Squadra (sport)",
+        "Attaccante",
+        "Sport di squadra",
         "FIFA",
-        "Girone all'italiana",
-        "Squadra (sport)"
+        "Girone all'italiana"
       ]
     },
     {
       "count": 184023,
-      "dimension": 6.196,
+      "dimension": 0.061958603358275285,
       "categories": [
         "Film Hepworth",
         "Cortometraggi muti britannici",
@@ -282,21 +287,21 @@
         "Album discografico"
       ],
       "random_walk_center": [
-        "Intensità acustica",
         "Volume (acustica)",
+        "Intensità acustica",
         "Regno Unito",
         "Canto",
         "Chitarra",
-        "Jazz",
+        "Batteria (strumento musicale)",
         "Strumento musicale",
-        "Basso elettrico",
+        "Jazz",
         "Musica",
-        "Batteria (strumento musicale)"
+        "Compact disc"
       ]
     },
     {
       "count": 162621,
-      "dimension": 5.475,
+      "dimension": 0.054752775667857204,
       "categories": [
         "Asteroidi della fascia principale interna",
         "Asteroidi della fascia principale centrale",
@@ -323,20 +328,20 @@
       ],
       "random_walk_center": [
         "Matematica",
-        "Numero reale",
         "Informatica",
-        "Insieme",
+        "Numero reale",
         "Fisica",
+        "Insieme",
+        "Terra",
         "Funzione (matematica)",
-        "Orbita",
-        "Asteroide",
         "Computer",
-        "Terra"
+        "Sole",
+        "Numero complesso"
       ]
     },
     {
       "count": 103263,
-      "dimension": 3.477,
+      "dimension": 0.03476756306866849,
       "categories": [
         "Comuni del Passo di Calais",
         "Comuni della Somme",
@@ -363,20 +368,20 @@
       ],
       "random_walk_center": [
         "Comuni della Francia",
-        "Comunità autonome della Spagna",
         "Regioni della Francia",
+        "Comunità autonome della Spagna",
         "Comuni della Spagna",
         "Nuova Aquitania",
         "Comuni della Svizzera",
         "Grande Est",
+        "Alvernia-Rodano-Alpi",
         "Alta Francia",
-        "Occitania (regione francese)",
-        "Patriziato (Svizzera)"
+        "Occitania (regione francese)"
       ]
     },
     {
       "count": 94412,
-      "dimension": 3.179,
+      "dimension": 0.03178752471300591,
       "categories": [
         "Aerei militari dal 1931 al 1945",
         "Naviglio militare della seconda guerra mondiale",
@@ -406,17 +411,17 @@
         "Unità di misura",
         "Metro",
         "Chilogrammo",
+        "Forza",
         "Conférence générale des poids et mesures",
-        "Bureau international des poids et mesures",
         "Velocità",
-        "Notte",
-        "Secondo",
-        "Mezzanotte"
+        "Bureau international des poids et mesures",
+        "Accelerazione",
+        "Sistema imperiale britannico"
       ]
     },
     {
       "count": 76078,
-      "dimension": 2.561,
+      "dimension": 0.025614660266873528,
       "categories": [
         "Sportivi afroamericani",
         "Cestisti figli d'arte",
@@ -445,18 +450,18 @@
         "Pallacanestro",
         "NBA",
         "Football americano",
-        "Baseball",
         "National Collegiate Athletic Association",
-        "National Football League",
+        "Baseball",
+        "Association of American Universities",
         "Guardia tiratrice",
-        "Ala grande",
-        "Federazione Internazionale Pallacanestro",
-        "Playmaker"
+        "Centro (pallacanestro)",
+        "National Football League",
+        "Ala grande"
       ]
     },
     {
       "count": 59206,
-      "dimension": 1.993,
+      "dimension": 0.01993403580220976,
       "categories": [
         "ATP Tour 1998",
         "Vincitori dell'Australian Open",
@@ -484,19 +489,19 @@
       "random_walk_center": [
         "Båstad",
         "Båstad (comune)",
+        "Bogotà",
         "Tennis",
         "Grande Slam (tennis)",
-        "Open di Francia",
-        "Bogotà",
-        "Australian Open",
         "Torneo di Wimbledon",
-        "US Open (tennis)",
-        "Coppa Davis"
+        "Candia",
+        "Open di Francia",
+        "Australian Open",
+        "US Open (tennis)"
       ]
     },
     {
       "count": 58176,
-      "dimension": 1.959,
+      "dimension": 0.019587245664786593,
       "categories": [
         "Consoli repubblicani romani",
         "Consoli imperiali romani",
@@ -523,20 +528,20 @@
       ],
       "random_walk_center": [
         "Alpi",
+        "Repubblica romana",
         "Console (storia romana)",
         "Impero romano",
-        "Antica Grecia",
-        "Repubblica romana",
-        "Mitologia greca",
         "Augusto",
         "Montagna",
-        "Programma Callicrate",
-        "Sparta"
+        "Antica Grecia",
+        "Mitologia greca",
+        "Roma (città antica)",
+        "Programma Callicrate"
       ]
     },
     {
       "count": 47093,
-      "dimension": 1.586,
+      "dimension": 0.015855716448222548,
       "categories": [
         "Comuni della Sassonia-Anhalt soppressi",
         "Frazioni della Sassonia-Anhalt",
@@ -564,19 +569,19 @@
       "random_walk_center": [
         "Germania",
         "Repubblica Ceca",
-        "Partito Socialdemocratico d'Austria",
         "Comuni della Repubblica Ceca",
+        "Partito Socialdemocratico d'Austria",
         "Circondari della Germania",
         "Partito Popolare Austriaco",
         "Brandeburgo",
-        "Comuni della Germania",
         "Sassonia-Anhalt",
-        "Targhe d'immatricolazione della Germania"
+        "Comuni della Germania",
+        "Turingia"
       ]
     },
     {
       "count": 34528,
-      "dimension": 1.163,
+      "dimension": 0.011625213461113715,
       "categories": [
         "Campionato svizzero maschile di hockey su ghiaccio",
         "Sciatori figli d'arte",
@@ -603,20 +608,20 @@
       ],
       "random_walk_center": [
         "Giochi olimpici invernali",
-        "Sci di fondo",
         "Hockey su ghiaccio",
-        "Stazione sciistica",
+        "Sci di fondo",
         "Sci alpino",
+        "Stazione sciistica",
         "Coppa del Mondo di sci alpino",
         "Federazione internazionale sci e snowboard",
-        "Salto con gli sci",
         "Sci nordico",
-        "Campionati mondiali di sci nordico"
+        "Salto con gli sci",
+        "Snowboard"
       ]
     },
     {
       "count": 29277,
-      "dimension": 0.986,
+      "dimension": 0.009857257139163179,
       "categories": [
         "Opere liriche in lingua italiana",
         "Compositori classici",
@@ -642,21 +647,21 @@
         "Teatro alla Scala"
       ],
       "random_walk_center": [
-        "Opera",
         "Wolfgang Amadeus Mozart",
+        "Opera",
         "Johann Sebastian Bach",
         "Ludwig van Beethoven",
-        "Orchestra",
         "Richard Wagner",
+        "Orchestra",
         "Soprano",
-        "Nota (musica)",
-        "Giuseppe Verdi",
-        "Tenore"
+        "Suono",
+        "Strumenti ad arco",
+        "Scala diatonica"
       ]
     },
     {
       "count": 15691,
-      "dimension": 0.528,
+      "dimension": 0.005282994219715457,
       "categories": [
         "Stazioni della JR East",
         "Stazioni della JR West",
@@ -685,10 +690,10 @@
         "Titolo di città in Giappone",
         "Hangŭl",
         "Cittadina del Giappone",
-        "Kyoto",
         "Hunminjeongeum",
-        "Prefettura di Hokkaidō",
+        "Kyoto",
         "Prefetture del Giappone",
+        "Prefettura di Hokkaidō",
         "Hanja",
         "Prefettura di Osaka",
         "National Hangeul Museum"
@@ -696,7 +701,7 @@
     },
     {
       "count": 15108,
-      "dimension": 0.509,
+      "dimension": 0.005086704268144868,
       "categories": [
         "Federazioni pallavolistiche",
         "Pallavolo nel 2022",
@@ -727,16 +732,16 @@
         "Most Valuable Player",
         "Confédération Européenne de Volleyball",
         "Libero (pallavolo)",
-        "Nazionali maschili di pallavolo europee",
         "Centrale (pallavolo)",
-        "Palleggiatore",
+        "Nazionali maschili di pallavolo europee",
         "Schiacciatore-laterale",
-        "Federazione Italiana Pallavolo"
+        "North, Central America and Caribbean Volleyball Confederation",
+        "Palleggiatore"
       ]
     },
     {
       "count": 7227,
-      "dimension": 0.243,
+      "dimension": 0.0024332546826769234,
       "categories": [
         "Wrestler della WWE",
         "Membri della WWE Hall of Fame",
@@ -766,17 +771,17 @@
         "WWE",
         "Glossario del wrestling",
         "Tipi di match di wrestling",
-        "Total Nonstop Action Wrestling",
         "Pro Wrestling Illustrated",
-        "WWE Raw",
         "National Wrestling Alliance",
+        "Total Nonstop Action Wrestling",
         "Feud",
-        "World Championship Wrestling"
+        "World Championship Wrestling",
+        "WWE Raw"
       ]
     },
     {
       "count": 5628,
-      "dimension": 0.189,
+      "dimension": 0.0018948882460364917,
       "categories": [
         "Aree urbane della contea di Västra Götaland",
         "Aree urbane della contea di Scania",
@@ -807,16 +812,16 @@
         "Comuni della Svezia",
         "Mitologia norrena",
         "Lingua norrena",
-        "Snorri Sturluson",
         "Province della Svezia",
+        "Snorri Sturluson",
         "Contea della Scania",
         "Scania (provincia)",
-        "Småland"
+        "Contea di Västra Götaland"
       ]
     },
     {
       "count": 3160,
-      "dimension": 0.106,
+      "dimension": 0.0010639386740361255,
       "categories": [
         "Edizioni del campionato portoghese di hockey su pista di primo livello",
         "Coppa del Re di hockey su pista",
@@ -848,15 +853,15 @@
         "Pattinaggio freestyle",
         "Hockey in-line",
         "Campionati europei di hockey su pista",
-        "Pattinaggio corsa",
         "Pattinaggio artistico",
+        "Pattinaggio corsa",
         "Skiroll",
-        "Montreux Hockey Club"
+        "World Skate America"
       ]
     },
     {
       "count": 1787,
-      "dimension": 0.06,
+      "dimension": 0.0006016640539565051,
       "categories": [
         "Villaggi del Botswana",
         "Comuni del Burundi",
@@ -885,18 +890,18 @@
         "Distretti del Botswana",
         "Sottodistretti del Botswana",
         "Distretto Centrale (Botswana)",
+        "Selebi Pikwe",
         "Francistown",
         "Lobatse",
-        "Selebi Pikwe",
+        "Comuni del Burundi",
         "Tutume",
         "Distretto Meridionale (Botswana)",
-        "Distretto di Kgatleng",
-        "Jwaneng"
+        "Distretto di Kgatleng"
       ]
     },
     {
       "count": 1390,
-      "dimension": 0.047,
+      "dimension": 0.00046799834079437163,
       "categories": [
         "Campionati mondiali di triathlon",
         "Campionati del mondo Ironman",
@@ -928,15 +933,15 @@
         "Triathlon ai Giochi olimpici",
         "Triathlon ai Giochi del Commonwealth",
         "Triathlon",
+        "Campionati del mondo Ironman 70.3",
         "Campionati del mondo Ironman",
         "Triathlon ai Giochi della XXXI Olimpiade - Gara maschile",
-        "Campionati del mondo Ironman 70.3",
-        "Triathlon ai Giochi della XXXII Olimpiade - Gara maschile"
+        "World Triathlon"
       ]
     },
     {
       "count": 868,
-      "dimension": 0.029,
+      "dimension": 0.0002922464459061256,
       "categories": [
         "Stazioni della metropolitana di New York",
         "Linea IRT Broadway-Seventh Avenue",
@@ -971,12 +976,12 @@
         "Metropolitana di Norimberga",
         "Banchina mediana",
         "Tornello",
-        "Linea A (metropolitana di New York)"
+        "Linea 2 (metropolitana di New York)"
       ]
     },
     {
       "count": 768,
-      "dimension": 0.026,
+      "dimension": 0.00025857750052523553,
       "categories": [
         "Distretti dello Zambia",
         "Ward del distretto di Katete",
@@ -1005,18 +1010,18 @@
         "Ward dello Zambia",
         "Provincia di Copperbelt",
         "Provincia Orientale (Zambia)",
-        "Provincia di Luapula",
         "Provincia Centrale (Zambia)",
-        "Distretto di Kalulushi",
-        "Distretto di Kitwe",
-        "Distretto di Luanshya",
+        "Provincia di Luapula",
+        "Distretto di Lundazi",
         "Provincia di Lusaka",
-        "Distretto di Chingola"
+        "Distretto di Mufulira",
+        "Distretto di Ndola",
+        "Distretto di Luanshya"
       ]
     },
     {
       "count": 700,
-      "dimension": 0.024,
+      "dimension": 0.0002356826176662303,
       "categories": [
         "Comuni dell'Albania soppressi",
         "Frazioni della prefettura di Elbasan",
@@ -1044,19 +1049,19 @@
       "random_walk_center": [
         "Comuni dell'Albania",
         "Prefettura di Elbasan",
-        "Prefettura di Scutari",
-        "Prefettura di Fier",
         "Prefettura di Dibër",
-        "Prefettura di Coriza",
-        "Prefettura di Kukës",
+        "Prefettura di Fier",
+        "Prefettura di Scutari",
         "Prefettura di Argirocastro",
-        "Prefettura di Tirana",
-        "Prefettura di Berat"
+        "Prefettura di Kukës",
+        "Prefettura di Coriza",
+        "Prefettura di Berat",
+        "Prefettura di Tirana"
       ]
     },
     {
       "count": 497,
-      "dimension": 0.017,
+      "dimension": 0.00016733465854302352,
       "categories": [
         "Campionato mondiale di snooker",
         "Competizioni sportive a Sheffield",
@@ -1083,20 +1088,20 @@
       ],
       "random_walk_center": [
         "Snooker",
-        "Campionato mondiale di snooker",
         "Statistiche di snooker",
+        "Campionato mondiale di snooker",
         "Stagione 2019-2020 di snooker",
         "Stagione 2018-2019 di snooker",
         "Stagione 2020-2021 di snooker",
         "Maximum break",
-        "Ronnie O'Sullivan",
         "John Higgins (giocatore di snooker)",
+        "Ronnie O'Sullivan",
         "Neil Robertson"
       ]
     },
     {
       "count": 321,
-      "dimension": 0.011,
+      "dimension": 0.00010807731467265705,
       "categories": [
         "Vini DOC e DOCG prodotti con uva Cabernet franc",
         "Vini DOC e DOCG prodotti con uva Merlot",
@@ -1125,18 +1130,18 @@
         "Alto Adige (vino)",
         "Friuli Colli Orientali",
         "Trentino (vino)",
-        "Trentino Chardonnay",
-        "Valle Isarco Muller Thurgau",
-        "Colli Orientali del Friuli Schioppettino",
-        "Alto Adige Valle Isarco Muller-Thurgau",
-        "Colli Orientali del Friuli Malvasia riserva",
-        "Alto Adige Valle Isarco Pinot Grigio Bressanone",
-        "Trentino Marzemino"
+        "Trentino Merlot Riserva",
+        "Sorni bianco",
+        "Alto Adige Valle Isarco Pinot Grigio",
+        "Colli Orientali del Friuli Traminer aromatico riserva",
+        "Alto Adige Pinot Bianco",
+        "Colli Orientali del Friuli Pinot bianco riserva",
+        "Terlano Muller-Thurgau"
       ]
     },
     {
       "count": 122,
-      "dimension": 0.004,
+      "dimension": 4.1076113364685855e-05,
       "categories": [
         "Cognomi italiani"
       ],
@@ -1153,21 +1158,21 @@
         "Caglieri"
       ],
       "random_walk_center": [
-        "Sutter (cognome italiano)",
         "Callegari (cognome)",
+        "Sutter (cognome italiano)",
         "Iacono (cognome)",
-        "Preti (cognome)",
         "Filippi (cognome)",
+        "Preti (cognome)",
         "Lo Iacono",
-        "Filipelli",
-        "Privitelli",
-        "Zagolin",
-        "Previtero"
+        "Calligaro",
+        "Filipaz",
+        "Filiputti",
+        "Iacona"
       ]
     },
     {
       "count": 114,
-      "dimension": 0.004,
+      "dimension": 3.838259773421465e-05,
       "categories": [
         "Distretti della Lituania",
         "Insediamenti rurali dell'Oblast' di Arcangelo"
@@ -1187,14 +1192,14 @@
       "random_walk_center": [
         "Municipal'noe obrazovanie Emeckoe",
         "Distretto di Alytus",
-        "Luksnėnai",
-        "Zaidai",
+        "Ždanovy",
+        "Kuliga (Municipal'noe obrazovanie Emeckoe)",
         "Kuzmecovo (Municipal'noe obrazovanie Emeckoe)",
-        "Myza (Municipal'noe obrazovanie Emeckoe)",
-        "Nižnjaja (Municipal'noe obrazovanie Emeckoe)",
-        "Brosačicha",
-        "Lochta",
-        "Zolotka"
+        "Kul'mino Maloe",
+        "Geniai (Alytus)",
+        "Strazdinė (Alytus)",
+        "Verchnjaja",
+        "Panemuninkai"
       ]
     }
   ]

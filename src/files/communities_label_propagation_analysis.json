@@ -8,15 +8,20 @@
     "mean_modularity": 0.15594800257267774,
     "mean_soergel": 0.9981941451321401,
     "count": 58725,
-    "mean": 50.57634738186462,
-    "median": 1.0,
-    "iqr": 0.0,
-    "giant_component": 2539032
+    "mean": 96435.03333333334,
+    "std": 453976.1268367523,
+    "median": 4066.0,
+    "iqr": 10307.0,
+    "q25": 1520.5,
+    "q50": 4066.0,
+    "q75": 11827.5,
+    "giant_component": 2539032,
+    "gini": 0.9240146244685398
   },
   "communities": [
     {
       "count": 2539032,
-      "dimension": 85.487,
+      "dimension": 0.8548652972833202,
       "categories": [
         "Film drammatici",
         "Cortometraggi drammatici",
@@ -44,19 +49,19 @@
       "random_walk_center": [
         "Stati Uniti d'America",
         "Italia",
-        "Francia",
-        "Germania",
         "Lingua inglese",
+        "Francia",
         "Roma",
-        "XX secolo",
+        "Lingua latina",
+        "Germania",
+        "Regno Unito",
         "Europa",
-        "XIX secolo",
-        "Regno Unito"
+        "Inghilterra"
       ]
     },
     {
       "count": 73762,
-      "dimension": 2.483,
+      "dimension": 0.024834887491852115,
       "categories": [
         "Taxa classificati da Linneo",
         "Asteroideae",
@@ -82,21 +87,21 @@
         "Chordata"
       ],
       "random_walk_center": [
-        "Tassonomia",
         "Animalia",
         "Eukaryota",
+        "Tassonomia",
         "Specie",
-        "Classificazione scientifica",
         "Sistematica",
+        "Classificazione scientifica",
         "Nomenclatura binomiale",
         "Famiglia (tassonomia)",
         "Filogenesi",
-        "Vertebra"
+        "Genere (tassonomia)"
       ]
     },
     {
       "count": 65891,
-      "dimension": 2.218,
+      "dimension": 0.02218480480092226,
       "categories": [
         "Asteroidi della fascia principale interna",
         "Asteroidi della fascia principale centrale",
@@ -124,9 +129,9 @@
       "random_walk_center": [
         "Orbita",
         "Unità astronomica",
+        "Asteroide",
         "Giorno",
         "Semiasse maggiore",
-        "Asteroide",
         "Eccentricità orbitale",
         "Eclittica",
         "Fascia principale",
@@ -136,7 +141,7 @@
     },
     {
       "count": 50718,
-      "dimension": 1.708,
+      "dimension": 0.017076215718279813,
       "categories": [
         "ATP Tour 1998",
         "ATP Tour 2000",
@@ -162,21 +167,21 @@
         "Båstad (comune)"
       ],
       "random_walk_center": [
+        "Tennis",
         "Båstad",
         "Båstad (comune)",
-        "Tennis",
         "Grande Slam (tennis)",
         "Open di Francia",
+        "Torneo di Wimbledon",
         "US Open (tennis)",
         "Australian Open",
-        "Torneo di Wimbledon",
-        "Martina Navrátilová",
-        "Association of Tennis Professionals"
+        "Association of Tennis Professionals",
+        "Martina Navrátilová"
       ]
     },
     {
       "count": 39419,
-      "dimension": 1.327,
+      "dimension": 0.013271961579693048,
       "categories": [
         "Comuni del Passo di Calais",
         "Comuni dell'Aisne",
@@ -207,16 +212,16 @@
         "Occitania (regione francese)",
         "Alvernia-Rodano-Alpi",
         "Grande Est",
-        "Normandia",
         "Dordogna",
-        "Alta Francia",
+        "Normandia",
         "Charente Marittima",
+        "Alta Francia",
         "Alta Garonna"
       ]
     },
     {
       "count": 20824,
-      "dimension": 0.701,
+      "dimension": 0.007011221186116543,
       "categories": [
         "Cestisti della Nazionale italiana",
         "Cestisti jugoslavi",
@@ -242,21 +247,21 @@
         "Federazione Italiana Pallacanestro"
       ],
       "random_walk_center": [
-        "Playmaker",
         "Centro (pallacanestro)",
-        "Ala grande",
+        "Playmaker",
         "Ala piccola",
+        "Ala grande",
         "Tiro (pallacanestro)",
         "FIBA Europe",
         "Tiro libero",
         "Campionati europei maschili di pallacanestro",
-        "Serie A (pallacanestro maschile)",
+        "Pro Basketball League",
         "Ligue Nationale de Basket-ball"
       ]
     },
     {
       "count": 13267,
-      "dimension": 0.447,
+      "dimension": 0.004466858983682682,
       "categories": [
         "Pallavolo nel 2013",
         "Pallavolo nel 2014",
@@ -289,14 +294,14 @@
         "Libero (pallavolo)",
         "Centrale (pallavolo)",
         "Carolina (Porto Rico)",
-        "Nazionale maschile di pallavolo dell'Italia",
         "Schiacciatore-laterale",
-        "Generazione di fenomeni"
+        "Generazione di fenomeni",
+        "Confederación Sudamericana de Voleibol"
       ]
     },
     {
       "count": 12168,
-      "dimension": 0.41,
+      "dimension": 0.004096837273946701,
       "categories": [
         "Sportivi afroamericani",
         "Pro Football Hall of Fame",
@@ -330,13 +335,13 @@
         "Touchdown",
         "Running back",
         "Kicker (football americano)",
-        "Pro Football Hall of Fame",
-        "End zone"
+        "End zone",
+        "Super Bowl"
       ]
     },
     {
       "count": 10806,
-      "dimension": 0.364,
+      "dimension": 0.0036382662378589784,
       "categories": [
         "Città della Repubblica Ceca",
         "Comuni del distretto di Brno-venkov",
@@ -365,18 +370,18 @@
         "Comuni della Repubblica Ceca",
         "Boemia Centrale",
         "Regioni della Repubblica Ceca",
-        "Regione di Vysočina",
         "Moravia Meridionale",
+        "Regione di Vysočina",
         "Regione di Pardubice",
+        "Boemia Meridionale",
         "Distretto di Benešov",
         "Comuni mercato della Repubblica Ceca",
-        "Regione di Plzeň",
-        "Boemia Meridionale"
+        "Regione di Olomouc"
       ]
     },
     {
       "count": 10051,
-      "dimension": 0.338,
+      "dimension": 0.0033840657002332584,
       "categories": [
         "Sportivi afroamericani",
         "Membri del Naismith Memorial Basketball Hall of Fame",
@@ -405,18 +410,18 @@
         "NBA",
         "Los Angeles Lakers",
         "Continental Basketball Association",
+        "Philadelphia 76ers",
         "Golden State Warriors",
-        "Boston Celtics",
+        "Chicago Bulls",
         "Sacramento Kings",
+        "Boston Celtics",
         "Detroit Pistons",
-        "Houston Rockets",
-        "New York Knicks",
-        "Milwaukee Bucks"
+        "Atlanta Hawks"
       ]
     },
     {
       "count": 8023,
-      "dimension": 0.27,
+      "dimension": 0.0027012594879088085,
       "categories": [
         "Sciatori figli d'arte",
         "Vincitori della Coppa Europa di sci alpino",
@@ -443,20 +448,20 @@
       ],
       "random_walk_center": [
         "Coppa del Mondo di sci alpino",
-        "Campionati mondiali di sci alpino",
-        "Demänovská Dolina",
         "Slalom speciale",
+        "Campionati mondiali di sci alpino",
         "Slalom gigante",
+        "Demänovská Dolina",
         "Discesa libera",
         "Supergigante",
-        "Combinata alpina",
         "Härjedalen (comune)",
-        "Coppa Europa di sci alpino"
+        "Combinata alpina",
+        "Tignes"
       ]
     },
     {
       "count": 6538,
-      "dimension": 0.22,
+      "dimension": 0.002201275649002591,
       "categories": [
         "Wrestler della WWE",
         "Wrestler della Total Nonstop Action Wrestling",
@@ -484,19 +489,19 @@
       "random_walk_center": [
         "WWE",
         "Glossario del wrestling",
-        "Tipi di match di wrestling",
         "Pro Wrestling Illustrated",
+        "Tipi di match di wrestling",
+        "Heel (wrestling)",
         "Total Nonstop Action Wrestling",
         "National Wrestling Alliance",
-        "Heel (wrestling)",
-        "World Championship Wrestling",
         "WWE Raw",
+        "Turn (wrestling)",
         "Feud"
       ]
     },
     {
       "count": 5945,
-      "dimension": 0.2,
+      "dimension": 0.0020016188028939134,
       "categories": [
         "Comuni del distretto di Cəlilabad",
         "Comuni del distretto di Bərdə",
@@ -525,18 +530,18 @@
         "Azerbaigian",
         "Distretto di Qusar",
         "GEOnet Names Server",
-        "Distretto di Quba",
-        "Distretto di Xaçmaz",
         "Distretto di Siyəzən",
         "Yuxarı Çardaqlar",
         "Distretto di Şabran",
+        "Distretto di Quba",
+        "Distretto di Xaçmaz",
         "Distretto di Zaqatala",
-        "Çiləgir (Qusar)"
+        "Zindanmuruq"
       ]
     },
     {
       "count": 5794,
-      "dimension": 0.195,
+      "dimension": 0.0019507786953687693,
       "categories": [
         "Comuni del circondario dell'Eifel-Bitburg-Prüm",
         "Comuni del circondario del Westerwald",
@@ -569,14 +574,14 @@
         "Renania-Palatinato",
         "Targhe d'immatricolazione della Germania",
         "Circondario di Steinburg",
-        "Circondario della Frisia Settentrionale",
-        "Neuendorf-Sachsenbande",
-        "List auf Sylt"
+        "Circondario di Schleswig-Flensburgo",
+        "List auf Sylt",
+        "Wiedenborstel"
       ]
     },
     {
       "count": 4679,
-      "dimension": 0.158,
+      "dimension": 0.0015753699543718453,
       "categories": [
         "Vincitori dell'Australian Open",
         "Membri dell'International Tennis Hall of Fame",
@@ -607,16 +612,16 @@
         "Arthur Ashe",
         "John Newcombe",
         "Jimmy Connors",
-        "Raúl Ramírez",
-        "Jan Kodeš",
         "Marty Riessen",
-        "Frew McMillan",
-        "Rod Laver"
+        "Jan Kodeš",
+        "Manuel Orantes",
+        "Tom Okker",
+        "Frew McMillan"
       ]
     },
     {
       "count": 3453,
-      "dimension": 0.116,
+      "dimension": 0.0011625886840021334,
       "categories": [
         "Circoscrizioni del distretto di Mjini",
         "Circoscrizioni del distretto di Muleba",
@@ -647,8 +652,8 @@
         "Regione del Manyara",
         "Circoscrizioni della Tanzania",
         "Distretto di Simanjiro",
-        "Distretto di Mbulu",
         "Distretto rurale di Babati",
+        "Distretto di Mbulu",
         "Distretto di Hanang",
         "Distretto urbano di Babati",
         "Distretto di Kiteto"
@@ -656,7 +661,7 @@
     },
     {
       "count": 3426,
-      "dimension": 0.115,
+      "dimension": 0.001153498068749293,
       "categories": [
         "Calciatori della Nazionale norvegese",
         "Campionato norvegese di calcio",
@@ -696,7 +701,7 @@
     },
     {
       "count": 2613,
-      "dimension": 0.088,
+      "dimension": 0.0008797695428026569,
       "categories": [
         "Stelle di classe spettrale K",
         "Stelle di classe spettrale B",
@@ -722,21 +727,21 @@
         "Catalogo Henry Draper"
       ],
       "random_walk_center": [
-        "Milliarcosecondo",
-        "Occhio nudo",
         "Sequenza principale",
+        "Occhio nudo",
         "Inquinamento luminoso",
-        "Catalogo Hipparcos",
-        "Stella gigante",
+        "Milliarcosecondo",
         "Gigante rossa",
+        "Stella gigante",
+        "Catalogo Hipparcos",
         "Binocolo",
-        "Equatore celeste",
-        "Catalogo SAO"
+        "Catalogo SAO",
+        "Circolo polare artico"
       ]
     },
     {
       "count": 2194,
-      "dimension": 0.074,
+      "dimension": 0.0007386966616567276,
       "categories": [
         "Baseball Hall of Fame",
         "World Series",
@@ -766,17 +771,17 @@
         "Lanciatore",
         "World Series",
         "St. Louis Cardinals",
-        "New York Yankees",
         "Los Angeles Dodgers",
-        "National League of Professional Baseball Clubs",
-        "American League of Professional Baseball Clubs",
         "Major League Baseball All-Star Game",
-        "Fuoricampo (baseball)"
+        "American League of Professional Baseball Clubs",
+        "National League of Professional Baseball Clubs",
+        "Fuoricampo (baseball)",
+        "New York Yankees"
       ]
     },
     {
       "count": 1883,
-      "dimension": 0.063,
+      "dimension": 0.0006339862415221596,
       "categories": [
         "Vincitori della Coppa del Mondo di biathlon",
         "Edizioni della Coppa del Mondo di biathlon",
@@ -804,19 +809,19 @@
       "random_walk_center": [
         "Campionati mondiali di biathlon",
         "Coppa del Mondo di biathlon",
-        "Ruhpolding",
         "Coppa del Mondo di biathlon 1997",
+        "Ruhpolding",
         "Rasun-Anterselva",
         "Hochfilzen",
         "Östersund",
-        "Pokljuka",
         "Coppa del Mondo di biathlon 1994",
+        "Pokljuka",
         "International Biathlon Union"
       ]
     },
     {
       "count": 1803,
-      "dimension": 0.061,
+      "dimension": 0.0006070510852174475,
       "categories": [
         "Numeri interi",
         "Successioni di interi",
@@ -849,14 +854,14 @@
         "2 (numero)",
         "Sistema di numerazione posizionale",
         "Terna pitagorica",
-        "Numero difettivo",
+        "Numero palindromo",
         "Quadrato perfetto",
-        "Numero palindromo"
+        "Numero difettivo"
       ]
     },
     {
       "count": 1756,
-      "dimension": 0.059,
+      "dimension": 0.0005912266808884292,
       "categories": [
         "Comuni della provincia di Médéa",
         "Comuni della provincia di Sétif",
@@ -885,18 +890,18 @@
         "Comuni dell'Algeria",
         "Distretti dell'Algeria",
         "Provincia di Médéa",
-        "Provincia di Sétif",
         "Provincia di Batna",
+        "Provincia di Sétif",
         "Provincia di Sidi Bel Abbès",
         "Provincia di Béjaïa",
         "Provincia di M'Sila",
-        "Provincia di Mascara",
-        "Provincia di Relizane"
+        "Provincia di Tiaret",
+        "Provincia di Mascara"
       ]
     },
     {
       "count": 1442,
-      "dimension": 0.049,
+      "dimension": 0.00048550619239243447,
       "categories": [
         "Vincitori di medaglia d'oro olimpica per gli Stati Uniti d'America",
         "Draft WNBA",
@@ -925,18 +930,18 @@
         "Women's National Basketball Association",
         "American Basketball League (1996-1998)",
         "Los Angeles Sparks",
-        "Las Vegas Aces",
-        "Minnesota Lynx",
+        "New York Liberty",
         "Phoenix Mercury",
         "Dallas Wings",
-        "New York Liberty",
         "Washington Mystics",
+        "Minnesota Lynx",
+        "Las Vegas Aces",
         "Seattle Storm"
       ]
     },
     {
       "count": 1414,
-      "dimension": 0.048,
+      "dimension": 0.00047607888768578523,
       "categories": [
         "Comuni del distretto di Manakara",
         "Comuni del distretto di Farafangana",
@@ -965,18 +970,18 @@
         "Distretti del Madagascar",
         "Suddivisioni del Madagascar",
         "Regione di Sofia (Madagascar)",
-        "Regione di Atsinanana",
         "Regione di Atsimo-Andrefana",
-        "Regione di Atsimo-Atsinanana",
-        "Regione di Vatovavy-Fitovinany",
         "Regione di Haute Matsiatra",
+        "Regione di Atsinanana",
         "Regione di Boeny",
-        "Regione di Analanjirofo"
+        "Regione di Atsimo-Atsinanana",
+        "Regione di Analanjirofo",
+        "Regione di Vatovavy-Fitovinany"
       ]
     },
     {
       "count": 1189,
-      "dimension": 0.04,
+      "dimension": 0.00040032376057878264,
       "categories": [
         "Comuni della Côte-d'Or",
         "Comuni dell'Alta Saona",
@@ -1004,19 +1009,19 @@
       "random_walk_center": [
         "Alta Saona",
         "Côte-d'Or",
+        "Saint-Loup-sur-Semouse",
         "Montbozon",
-        "Fondremand",
+        "Faverney",
+        "Ray-sur-Saône",
         "Vauvillers (Alta Saona)",
         "Bucey-lès-Gy",
-        "Ray-sur-Saône",
-        "Faverney",
-        "Saint-Loup-sur-Semouse",
+        "Fondremand",
         "Lanterne (fiume)"
       ]
     },
     {
       "count": 1112,
-      "dimension": 0.037,
+      "dimension": 0.0003743986726354973,
       "categories": [
         "Film Hepworth",
         "Cortometraggi muti britannici",
@@ -1045,8 +1050,8 @@
         "Cecil Hepworth",
         "Hepworth (azienda)",
         "Filmografia della Hepworth",
-        "Comin' Thro' the Rye (film 1916)",
         "Alma Taylor",
+        "Comin' Thro' the Rye (film 1916)",
         "Comin' Thro the Rye (film 1923)",
         "Lewin Fitzhamon",
         "Frank Wilson (regista)",
@@ -1056,7 +1061,7 @@
     },
     {
       "count": 1066,
-      "dimension": 0.036,
+      "dimension": 0.0003589109577602879,
       "categories": [
         "Campionati mondiali di triathlon",
         "Campionati europei di triathlon",
@@ -1087,16 +1092,16 @@
         "Triathlon ai Giochi olimpici",
         "Triathlon ai Giochi del Commonwealth",
         "Triathlon ai Giochi della XXXI Olimpiade - Gara maschile",
-        "Campionati del mondo Ironman 70.3",
-        "Campionati europei di triathlon del 2017",
-        "Campionati del mondo di triathlon del 2002",
+        "Francisco Javier Gómez Noya",
         "Alistair Brownlee",
-        "Sven Riederer"
+        "Campionati europei di triathlon middle distance",
+        "Campionati europei di triathlon del 2017",
+        "Campionati del mondo Ironman 70.3"
       ]
     },
     {
       "count": 949,
-      "dimension": 0.032,
+      "dimension": 0.0003195182916646465,
       "categories": [
         "Funghi commestibili",
         "Taxa classificati da Elias Magnus Fries",
@@ -1136,7 +1141,7 @@
     },
     {
       "count": 921,
-      "dimension": 0.031,
+      "dimension": 0.0003100909869579973,
       "categories": [
         "Comuni della regione di Sikasso",
         "Comuni della regione di Kayes",
@@ -1167,16 +1172,16 @@
         "Regione di Sikasso",
         "Regione di Kayes",
         "Regione di Ségou",
-        "Regione di Mopti",
         "Regione di Koulikoro",
+        "Regione di Mopti",
         "Circondario di Sikasso",
         "Circondario di Koutiala",
-        "Circondario di Ségou"
+        "Circondario di Kati"
       ]
     },
     {
       "count": 913,
-      "dimension": 0.031,
+      "dimension": 0.0003073974713275261,
       "categories": [
         "Villaggi del Botswana",
         "Sottodistretti del Botswana",
@@ -1205,13 +1210,13 @@
         "Distretti del Botswana",
         "Sottodistretti del Botswana",
         "Distretto Centrale (Botswana)",
-        "Mahalapye",
-        "Distretto di Kgalagadi",
-        "Tutume",
         "Jwaneng",
-        "Sowa Town",
+        "Tutume",
+        "Distretto di Kgalagadi",
+        "Mahalapye",
         "Distretto Meridionale (Botswana)",
-        "Serowe Palapye"
+        "Sowa Town",
+        "Distretto di Ghanzi"
       ]
     }
   ]

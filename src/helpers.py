@@ -111,6 +111,17 @@ def mean_weighted_soergel_communities_distance(graph, communities):
   return total / count
 
 """
+  gini_index
+"""
+def gini_index(sizes):
+    sizes = np.sort(sizes)
+    n = len(sizes)
+
+    gini = (np.sum(np.abs(np.subtract.outer(sizes, sizes))) / (2 * n * np.sum(sizes)))
+
+    return gini
+
+"""
   community_info
 
   Author: Samuele Mega
@@ -118,7 +129,7 @@ def mean_weighted_soergel_communities_distance(graph, communities):
 def community_info(graph, community, n):
   return {
     "count": len(community),
-    "dimension": round(len(community) / graph.vcount() * 100, 3),
+    "dimension": len(community) / graph.vcount(),
     "categories": [c[0] for c in fr_sort_categories(graph, community)[:n]],
     "page_rank_centers": pr_sort_vertices(graph, community)[:n],
     "random_walk_center": random_walk_centrality(graph, community)[:n],
@@ -134,7 +145,7 @@ def communities_info(graph, communities, n):
   duration = communities["duration"]
 
   main_communities = sorted(communities["communities"], key=len, reverse=True)[:30]
-  communities_sizes = [len(community) for community in communities["communities"]]
+  communities_sizes = [len(community) for community in main_communities]
 
   return {
     "info": {
@@ -147,9 +158,14 @@ def communities_info(graph, communities, n):
       "mean_soergel": mean_weighted_soergel_communities_distance(graph, main_communities),
       "count": len(communities["communities"]),
       "mean": float(np.mean(communities_sizes)),
+      "std": float(np.std(communities_sizes)),
       "median": float(np.median(communities_sizes)),
       "iqr": float(np.percentile(communities_sizes, 75) - np.percentile(communities_sizes, 25)),
+      "q25": float(np.percentile(communities_sizes, 25)),
+      "q50": float(np.percentile(communities_sizes, 50)),
+      "q75": float(np.percentile(communities_sizes, 75)),
       "giant_component": int(np.max(communities_sizes)),
+      "gini": float(gini_index(communities_sizes)),
     },
     "communities": [community_info(graph, c, n) for c in main_communities],
   }
